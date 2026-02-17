@@ -1,0 +1,708 @@
+
+code	|	name	|	preferred name	|	taxid
+1	|	Actinobaculum massiliense	|	 	|	202789
+1	|	Actinomyces neuii	|	Winkia neuii	|	33007
+1	|	Actinotignum sanguinis	|	 	|	1445614
+1	|	Aerococcus urinae	|	 	|	1376
+1	|	Anaerococcus octavius	|	 	|	54007
+1	|	Atopobium vaginae	|	Fannyhessea vaginae	|	82135
+1	|	Bifidobacterium breve	|	 	|	1685
+1	|	Bifidobacterium dentium	|	 	|	1689
+1	|	Corynebacterium amycolatum	|	 	|	43765
+1	|	Corynebacterium aurimucosum	|	 	|	169292
+1	|	Corynebacterium coyleae	|	 	|	53374
+1	|	Corynebacterium imitans	|	 	|	156978
+1	|	Corynebacterium lipophilum	|	 	|	2804918
+1	|	Cutibacterium acnes	|	 	|	1747
+1	|	Dermabacter hominis	|	 	|	36740
+1	|	Dialister micraerophilus	|	 	|	309120
+1	|	Enterococcus faecalis	|	 	|	1351
+1	|	Escherichia coli	|	 	|	562
+1	|	Finegoldia magna	|	 	|	1260
+1	|	Gardnerella vaginalis	|	 	|	2702
+1	|	Helicobacter canis	|	 	|	29419
+1	|	Kocuria rhizophila	|	 	|	72000
+1	|	Lactobacillus crispatus	|	 	|	47770
+1	|	Lactobacillus gasseri	|	 	|	1596
+1	|	Lactobacillus jensenii	|	 	|	109790
+1	|	Lactobacillus johnsonii	|	 	|	33959
+1	|	Lactobacillus vaginalis	|	Limosilactobacillus vaginalis	|	1633
+1	|	Peptoniphilus indolicus	|	 	|	33030
+1	|	Peptostreptococcus anaerobius	|	 	|	1261
+1	|	Staphylococcus aureus	|	 	|	1280
+1	|	Staphylococcus capitis	|	 	|	29388
+1	|	Staphylococcus condimenti	|	 	|	70255
+1	|	Staphylococcus epidermidis	|	 	|	1282
+1	|	Staphylococcus haemolyticus	|	 	|	1283
+1	|	Staphylococcus hominis	|	 	|	1290
+1	|	Staphylococcus lugdunensis	|	 	|	28035
+1	|	Streptococcus anginosus	|	 	|	1328
+1	|	Trueperella bernardiae	|	 	|	59561
+1	|	Actinomyces urinae	|	 	|	1689268
+1	|	Actinotignum timonense	|	 	|	1870995
+1	|	Anaerococcus urinomassiliensis	|	 	|	1745712
+1	|	Arcanobacterium urinimassiliense	|	 	|	1871014
+3	|	Bacteroides transplantocaccae	|	 	|	 
+1	|	Corynebacterium kroppenstedtii	|	 	|	161879
+3	|	Corynebacterium lascolaense	|	 	|	 
+1	|	Corynebacterium mucifaciens	|	 	|	57171
+1	|	Corynebacterium phoceense	|	 	|	1686286
+1	|	Corynebacterium ureicelerivorans	|	 	|	401472
+1	|	Corynebacterium urealyticum	|	 	|	43771
+1	|	Corynebacterium urinapleomorphum	|	Corynebacterium urinipleomorphum	|	1852380
+1	|	Lachnoclostridium phocaeense	|	 	|	1871021
+1	|	Lachnoclostridium urinimassiliense	|	 	|	1852382
+1	|	Ndongobacter massiliensis	|	 	|	1871025
+1	|	Olsenella urininfantis	|	 	|	1871033
+3	|	Pelistega massiliensis	|	 	|	 
+1	|	Peptoniphilus urinimassiliensis	|	Aedoeadaptatus urinae	|	1871017
+3	|	Streptococcus transplantocaccae	|	 	|	 
+1	|	Urinacoccus massiliensis	|	Urinicoccus massiliensis	|	1723382
+1	|	Varibaculum massiliense	|	 	|	1852372
+1	|	Abiotrophia defectiva	|	 	|	46125
+1	|	Achromobacter denitrificans	|	 	|	32002
+1	|	Achromobacter insolitus	|	 	|	217204
+1	|	Achromobacter xylosoxidans	|	 	|	85698
+1	|	Acidaminococcus fermentans	|	 	|	905
+1	|	Acidocella facilis	|	 	|	525
+1	|	Acidovorax delafieldii	|	 	|	47920
+1	|	Acidovorax radicis	|	 	|	758826
+1	|	Acinetobacter baumannii	|	 	|	470
+1	|	Acinetobacter bereziniae	|	 	|	106648
+1	|	Acinetobacter calcoaceticus	|	 	|	471
+1	|	Acinetobacter guillouiae	|	 	|	106649
+1	|	Acinetobacter haemolyticus	|	 	|	29430
+1	|	Acinetobacter johnsonii	|	 	|	40214
+1	|	Acinetobacter junii	|	 	|	40215
+3	|	Acinetobacter lwoffi	|	 	|	 
+1	|	Acinetobacter nosocomialis	|	 	|	106654
+1	|	Acinetobacter radioresistens	|	 	|	40216
+1	|	Acinetobacter schindleri	|	 	|	108981
+1	|	Acinetobacter septicus	|	 	|	465797
+1	|	Acinetobacter ursingii	|	 	|	108980
+1	|	Actinobaculum massiliense	|	 	|	202789
+1	|	Actinobaculum schaalii	|	Actinotignum schaalii	|	59505
+1	|	Actinobaculum urinale	|	Actinotignum urinale	|	190146
+1	|	Actinomyces europaeus	|	Gleimia europaea	|	66228
+1	|	Actinomyces graevenitzii	|	 	|	55565
+1	|	Actinomyces israelii	|	 	|	1659
+1	|	Actinomyces meyeri	|	Schaalia meyeri	|	52773
+1	|	Actinomyces naeslundii	|	 	|	1655
+1	|	Actinomyces neuii	|	Winkia neuii	|	33007
+1	|	Actinomyces odontolyticus	|	Schaalia odontolytica	|	1660
+1	|	Actinomyces oris	|	 	|	544580
+1	|	Actinomyces radingae	|	Schaalia radingae	|	131110
+1	|	Actinomyces turicensis	|	Schaalia turicensis	|	131111
+1	|	Actinomyces urinae	|	 	|	1689268
+1	|	Actinomyces urogenitalis	|	 	|	103621
+1	|	Actinomyces viscosus	|	 	|	1656
+1	|	Actinotignum timonense	|	 	|	1870995
+1	|	Advenella mimigardefordensis	|	 	|	302406
+1	|	Aerococcus sanguinicola	|	 	|	119206
+1	|	Aerococcus christensenii	|	 	|	87541
+1	|	Aerococcus urinae	|	 	|	1376
+1	|	Aerococcus urinaehominis	|	 	|	128944
+1	|	Aerococcus viridans	|	 	|	1377
+1	|	Aeromonas caviae	|	 	|	648
+1	|	Aeromonas hydrophila	|	 	|	644
+1	|	Aeromonas popoffii	|	 	|	70856
+1	|	Aeromonas salmonicida	|	 	|	645
+2	|	Aeromonas trota	|	Aeromonas enteropelogenes	|	29489
+1	|	Aeromonas veronii	|	 	|	654
+1	|	Aggregatibacter actinomycetemcomitans	|	 	|	714
+1	|	Akkermansia muciniphila	|	 	|	239935
+1	|	Alcaligenes faecalis	|	 	|	511
+1	|	Alistipes finegoldii	|	 	|	214856
+1	|	Alistipes onderdonkii	|	 	|	328813
+1	|	Alloscardovia omnicolens	|	 	|	419015
+1	|	Anaerococcus hydrogenalis	|	 	|	33029
+1	|	Anaerococcus lactolyticus	|	 	|	33032
+1	|	Anaerococcus murdochii	|	 	|	411577
+1	|	Anaerococcus obesiensis	|	 	|	1287640
+1	|	Anaerococcus octavius	|	 	|	54007
+1	|	Anaerococcus prevotii	|	 	|	33034
+1	|	Anaerococcus provenciensis	|	Anaerococcus provencensis	|	938293
+1	|	Anaerococcus senegalensis	|	 	|	1288120
+1	|	Anaerococcus tetradius	|	 	|	33036
+1	|	Anaerococcus urinomassiliensis	|	 	|	1745712
+1	|	Anaerococcus vaginalis	|	 	|	33037
+1	|	Anaerosphaera aminiphila	|	 	|	1120994
+1	|	Anaerostipes hadrus	|	 	|	649756
+1	|	Anaerotruncus colihominis	|	 	|	169435
+1	|	Anaplasma phagocytophilum	|	 	|	948
+1	|	Arcanobacterium haemolyticum	|	 	|	28264
+1	|	Arcanobacterium hippocoleae	|	 	|	149017
+1	|	Arcanobacterium urinimassiliense	|	 	|	1871014
+1	|	Arcobacter cryaerophilus	|	Aliarcobacter cryaerophilus	|	28198
+1	|	Arthrobacter albus	|	Pseudoglutamicibacter albus	|	98671
+1	|	Arthrobacter aurescens	|	Paenarthrobacter aurescens	|	43663
+1	|	Arthrobacter creatinolyticus	|	Glutamicibacter creatinolyticus	|	162496
+1	|	Arthrobacter cumminsii	|	Pseudoglutamicibacter cumminsii	|	156979
+1	|	Arthrobacter protophormiae	|	Glutamicibacter protophormiae	|	37930
+1	|	Atopobium minutum	|	 	|	1381
+1	|	Atopobium parvulum	|	Lancefieldella parvula	|	1382
+1	|	Atopobium vaginae	|	Fannyhessea vaginae	|	82135
+1	|	Bacillus cereus	|	 	|	1396
+1	|	Bacillus licheniformis	|	 	|	1402
+1	|	Bacillus megaterium	|	Priestia megaterium	|	1404
+1	|	Bacillus subtilis	|	 	|	1423
+1	|	Bacillus thermoamylovorans	|	Caldibacillus thermoamylovorans	|	35841
+1	|	Bacteroides coagulans	|	Ezakiella coagulans	|	46507
+1	|	Bacteroides distasonis	|	Parabacteroides distasonis	|	823
+1	|	Bacteroides fragilis	|	 	|	817
+1	|	Bacteroides melaninogenicus	|	Prevotella melaninogenica	|	28132
+1	|	Bacteroides thetaiotaomicron	|	 	|	818
+1	|	Bacteroides ureolyticus	|	Campylobacter ureolyticus	|	827
+1	|	Bacteroides vulgatus	|	Phocaeicola vulgatus	|	821
+1	|	Bartonella henselae	|	 	|	38323
+1	|	Bifidobacterium adolescentis	|	 	|	1680
+1	|	Bifidobacterium bifidum	|	 	|	1681
+1	|	Bifidobacterium breve	|	 	|	1685
+1	|	Bifidobacterium dentium	|	 	|	1689
+1	|	Bifidobacterium longum	|	 	|	216816
+1	|	Bifidobacterium scardovii	|	 	|	158787
+1	|	Bifidobacterium subtile	|	 	|	77635
+1	|	Bilophila wadsworthia	|	 	|	35833
+1	|	Blautia hansenii	|	 	|	1322
+1	|	Blautia obeum	|	 	|	40520
+1	|	Borreliella afzelii	|	 	|	29518
+1	|	Borrelia burgdorferi	|	Borreliella burgdorferi	|	139
+1	|	Brevibacillus agri	|	 	|	51101
+1	|	Brevibacillus brevis	|	 	|	1393
+1	|	Brevibacterium ravenspurgense	|	 	|	479117
+1	|	Brevundimonas diminuta	|	 	|	293
+1	|	Brevundimonas subvibrioides	|	 	|	74313
+1	|	Brevundimonas vesicularis	|	 	|	41276
+1	|	Brucella abortus	|	 	|	235
+1	|	Brucella melitensis	|	 	|	29459
+1	|	Budvicia aquatica	|	 	|	82979
+1	|	Burkholderia cepacia	|	 	|	292
+1	|	Burkholderia pseudomallei	|	 	|	28450
+1	|	Buttiauxella gaviniae	|	 	|	82990
+1	|	Campylobacter coli	|	 	|	195
+1	|	Campylobacter hominis	|	 	|	76517
+1	|	Campylobacter jejuni	|	 	|	197
+1	|	Campylobacter lari	|	 	|	201
+1	|	Campylobacter ureolyticus	|	 	|	827
+1	|	Capnocytophaga ochracea	|	 	|	1018
+1	|	Cedecea davisae	|	 	|	158484
+1	|	Chlamydia trachomatis	|	 	|	813
+1	|	Chlamydophila pneumoniae	|	Chlamydia pneumoniae	|	83558
+1	|	Christensenella minuta	|	 	|	626937
+1	|	Chromobacterium violaceum	|	 	|	536
+1	|	Chryseobacterium gleum	|	 	|	250
+1	|	Chryseobacterium indologenes	|	 	|	253
+1	|	Citrobacter amalonaticus	|	 	|	35703
+1	|	Citrobacter braakii	|	 	|	57706
+1	|	Citrobacter farmeri	|	 	|	67824
+1	|	Citrobacter freundii	|	 	|	546
+1	|	Citrobacter intermedius	|	 	|	66695
+1	|	Citrobacter koseri	|	 	|	545
+1	|	Citrobacter sedlakii	|	 	|	67826
+1	|	Citrobacter werkmanii	|	 	|	67827
+1	|	Citrobacter youngae	|	 	|	133448
+1	|	Clostridium butyricum	|	 	|	1492
+1	|	Clostridium difficile	|	Clostridioides difficile	|	1496
+1	|	Clostridium perfringens	|	 	|	1502
+1	|	Clostridium putrefaciens	|	 	|	99675
+1	|	Clostridium ramosum	|	Thomasclavelia ramosa	|	1547
+1	|	Comamonas acidovorans	|	Delftia acidovorans	|	80866
+1	|	Comamonas testosteroni	|	 	|	285
+1	|	Collinsella aerofaciens	|	 	|	74426
+1	|	Coprococcus eutactus	|	 	|	33043
+1	|	Corynebacterium accolens	|	 	|	38284
+1	|	Corynebacterium afermentans	|	 	|	38286
+1	|	Corynebacterium amycolatum	|	 	|	43765
+1	|	Corynebacterium appendicis	|	 	|	163202
+1	|	Corynebacterium aurimucosum	|	 	|	169292
+1	|	Corynebacterium coyleae	|	 	|	53374
+1	|	Corynebacterium diphtheriae	|	 	|	1717
+1	|	Corynebacterium freneyi	|	 	|	134034
+1	|	Corynebacterium genitalium	|	 	|	38288
+1	|	Corynebacterium glucuronolyticum	|	 	|	39791
+1	|	Corynebacterium imitans	|	 	|	156978
+1	|	Corynebacterium jeikeium	|	 	|	38289
+1	|	Corynebacterium lipophilum	|	 	|	2804918
+1	|	Corynebacterium macginleyi	|	 	|	38290
+1	|	Corynebacterium matruchotii	|	 	|	43768
+1	|	Corynebacterium minutissimum	|	 	|	38301
+1	|	Corynebacterium phocae	|	 	|	161895
+1	|	Corynebacterium pseudodiphtheriticum	|	 	|	37637
+1	|	Corynebacterium pseudogenitalium	|	 	|	38303
+1	|	Corynebacterium pyruviciproducens	|	 	|	598660
+1	|	Corynebacterium riegelii	|	 	|	156976
+1	|	Corynebacterium simulans	|	 	|	146827
+1	|	Corynebacterium singulare	|	 	|	161899
+1	|	Corynebacterium striatum	|	 	|	43770
+1	|	Corynebacterium tuberculostearicum	|	 	|	38304
+1	|	Corynebacterium tuscaniense	|	 	|	302449
+1	|	Corynebacterium urealyticum	|	 	|	43771
+1	|	Corynebacterium urinapleomorphum	|	Corynebacterium urinipleomorphum	|	1852380
+1	|	Corynebacterium xerosis	|	 	|	1725
+1	|	Cosenzaea myxofaciens	|	Proteus myxofaciens	|	184072
+1	|	Cronobacter sakazakii	|	 	|	28141
+1	|	Dechloromonas agitata	|	 	|	73030
+1	|	Delftia acidovorans	|	 	|	80866
+1	|	Dermabacter hominis	|	 	|	36740
+1	|	Desulfovibrio fairfieldensis	|	 	|	44742
+1	|	Dialister invisus	|	 	|	218538
+1	|	Dialister micraerophilus	|	 	|	309120
+1	|	Dialister pneumosintes	|	 	|	39950
+3	|	Diaslister propionicifaciens	|	 	|	 
+1	|	Dolosigranulum pigrum	|	 	|	29394
+1	|	Dysgonomonas mossii	|	 	|	163665
+1	|	Edwardsiella tarda	|	 	|	636
+1	|	Eggerthella lenta	|	 	|	84112
+1	|	Eikenella corrodens	|	 	|	539
+1	|	Elizabethkingia meningoseptica	|	 	|	238
+1	|	Elizabethkingia miricola	|	 	|	172045
+1	|	Enhydrobacter aerosaccus	|	 	|	225324
+1	|	Enterobacter amnigenus	|	Lelliottia amnigena	|	61646
+1	|	Enterobacter aerogenes	|	Klebsiella aerogenes	|	548
+1	|	Enterobacter asburiae	|	 	|	61645
+1	|	Enterobacter cloacae	|	 	|	550
+1	|	Enterobacter gergoviae	|	Pluralibacter gergoviae	|	61647
+1	|	Enterobacter hormaechei	|	 	|	158836
+1	|	Enterobacter kobei	|	 	|	208224
+1	|	Enterobacter ludwigii	|	 	|	299767
+1	|	Enterobacter sakazakii	|	Cronobacter sakazakii	|	28141
+2	|	Enterobacter taylorae	|	Enterobacter cancerogenus	|	69218
+1	|	Enterococcus avium	|	 	|	33945
+1	|	Enterococcus casseliflavus	|	 	|	37734
+1	|	Enterococcus cecorum	|	 	|	44008
+1	|	Enterococcus durans	|	 	|	53345
+1	|	Enterococcus faecalis	|	 	|	1351
+1	|	Enterococcus faecium	|	 	|	1352
+1	|	Enterococcus gallinarum	|	 	|	1353
+1	|	Enterococcus gilvus	|	 	|	160453
+1	|	Enterococcus hirae	|	 	|	1354
+1	|	Enterococcus malodoratus	|	 	|	71451
+1	|	Enterococcus pseudoavium	|	 	|	44007
+1	|	Enterococcus raffinosus	|	 	|	71452
+1	|	Epilithonimonas tenax	|	 	|	191577
+1	|	Erwinia persicina	|	 	|	55211
+1	|	Erysipelothrix inopinata	|	 	|	225084
+1	|	Escherichia coli	|	 	|	562
+1	|	Escherichia faecalis	|	 	|	279970
+1	|	Escherichia fergusonii	|	 	|	564
+1	|	Escherichia hermannii	|	Atlantibacter hermannii	|	565
+1	|	Escherichia vulneris	|	Pseudescherichia vulneris	|	566
+1	|	Facklamia hominis	|	 	|	178214
+1	|	Facklamia ignava	|	Falseniella ignava	|	137730
+1	|	Facklamia languida	|	 	|	82347
+1	|	Faecalibacterium prausnitzii	|	 	|	853
+1	|	Fastidiosipila sanguinis	|	 	|	236753
+1	|	Fenollaria massiliensis	|	 	|	938288
+1	|	Finegoldia magna	|	 	|	1260
+1	|	Flavobacterium antarcticum	|	 	|	271155
+1	|	Flindersiella endophytica	|	 	|	648751
+1	|	Francisella tularensis	|	 	|	263
+1	|	Fusobacterium nucleatum	|	 	|	851
+1	|	Gallicola barnesae	|	 	|	116087
+1	|	Gardnerella vaginalis	|	 	|	2702
+1	|	Gemella asaccharolytica	|	Gemelliphila asaccharolytica	|	502393
+1	|	Gemella haemolysans	|	 	|	1379
+1	|	Gemella morbillorum	|	 	|	29391
+1	|	Gemella sanguinis	|	 	|	84135
+1	|	Globicatella sanguinis	|	 	|	13076
+1	|	Gordonibacter pamelaeae	|	 	|	471189
+1	|	Gordonia terrae	|	 	|	2055
+1	|	Granulicatella adiacens	|	 	|	46124
+1	|	Granulicatella elegans	|	 	|	137732
+1	|	Haemophilus influenzae	|	 	|	727
+1	|	Haemophilus parainfluenzae	|	 	|	729
+1	|	Hafnia alvei	|	 	|	569
+1	|	Helcococcus seattlensis	|	 	|	1441821
+1	|	Helicobacter cinaedi	|	 	|	213
+1	|	Helicobacter pylori	|	 	|	210
+1	|	Howardella ureilytica	|	 	|	404403
+1	|	Ilyobacter polytropus	|	 	|	167642
+1	|	Jeotgalicoccus psychrophilus	|	 	|	157228
+1	|	Kandleria vitulina	|	 	|	1630
+1	|	Kerstersia gyiorum	|	 	|	206506
+1	|	Kingella kingae	|	 	|	504
+1	|	Kingella potus	|	 	|	265175
+1	|	Klebsiella ascorbata	|	Kluyvera ascorbata	|	51288
+3	|	Klebsiella kluyvera	|	 	|	 
+1	|	Klebsiella oxytoca	|	 	|	571
+1	|	Klebsiella ozaenae	|	Klebsiella pneumoniae subsp. ozaenae	|	574
+1	|	Klebsiella pneumoniae	|	 	|	573
+1	|	Kluyvera ascorbata	|	 	|	51288
+1	|	Kluyvera cryocrescens	|	 	|	580
+1	|	Kluyvera intermedia	|	 	|	61648
+1	|	Kocuria kristinae	|	Rothia kristinae	|	37923
+1	|	Kocuria rhizophila	|	 	|	72000
+1	|	Lachnoclostridium urinimassiliense	|	 	|	1852382
+1	|	Lactobacillus acidophilus	|	 	|	1579
+1	|	Lactobacillus casei	|	Lacticaseibacillus casei	|	1582
+1	|	Lactobacillus coleohominis	|	Limosilactobacillus coleohominis	|	181675
+1	|	Lactobacillus crispatus	|	 	|	47770
+1	|	Lactobacillus delbrueckii	|	 	|	1584
+1	|	Lactobacillus fermentum	|	Limosilactobacillus fermentum	|	1613
+1	|	Lactobacillus fornicalis	|	 	|	88164
+1	|	Lactobacillus gasseri	|	 	|	1596
+1	|	Lactobacillus iners	|	 	|	147802
+1	|	Lactobacillus jensenii	|	 	|	109790
+1	|	Lactobacillus johnsonii	|	 	|	33959
+1	|	Lactobacillus plantarum	|	Lactiplantibacillus plantarum	|	1590
+1	|	Lactobacillus rhamnosus	|	Lacticaseibacillus rhamnosus	|	47715
+1	|	Lactobacillus vaginalis	|	Limosilactobacillus vaginalis	|	1633
+1	|	Lactococcus garvieae	|	 	|	1363
+1	|	Lactococcus lactis	|	 	|	1358
+1	|	Leclercia adecarboxylata	|	 	|	83655
+1	|	Legionella dresdeniensis	|	Legionella dresdenensis	|	450200
+1	|	Legionella londiniensis	|	 	|	45068
+1	|	Legionella yabuuchiae	|	 	|	376727
+1	|	Leifsonia aquatica	|	 	|	144185
+1	|	Leminorella grimontii	|	 	|	82981
+1	|	Leptospira interrogans	|	 	|	173
+2	|	Leptotrichia amnionii	|	Sneathia vaginalis	|	187101
+1	|	Levyella massiliensis	|	 	|	938289
+1	|	Leuconostoc mesenteroides	|	 	|	1245
+1	|	Leuconostoc pseudomesenteroides	|	 	|	33968
+1	|	Listeria monocytogenes	|	 	|	1639
+1	|	Macellibacteroides fermentans	|	 	|	879969
+1	|	Mageeibacillus indolicus	|	 	|	884684
+1	|	Mannheimia haemolytica	|	 	|	75985
+1	|	Megasphaera elsdenii	|	 	|	907
+1	|	Mesoflavibacter zeaxanthinifaciens	|	 	|	393060
+1	|	Methylobacillus pratensis	|	 	|	233101
+1	|	Methylobacterium zatmanii	|	Methylorubrum zatmanii	|	29429
+1	|	Methylotenera mobilis	|	 	|	359408
+1	|	Microbacterium lacticum	|	 	|	33885
+1	|	Microbacterium oxydans	|	 	|	82380
+1	|	Microbacterium paraoxydans	|	 	|	199592
+1	|	Microbacterium testaceum	|	 	|	2033
+1	|	Micrococcus luteus	|	 	|	1270
+1	|	Micrococcus lylae	|	 	|	1273
+1	|	Microvirga flocculans	|	 	|	217168
+1	|	Mobiluncus curtisii	|	 	|	2051
+1	|	Moraxella catarrhalis	|	 	|	480
+3	|	Moraxella liquefaciens	|	 	|	 
+1	|	Moraxella nonliquefaciens	|	 	|	478
+1	|	Moraxella osloensis	|	 	|	34062
+1	|	Morganella morganii	|	 	|	582
+1	|	Mycobacterium abscessus	|	Mycobacteroides abscessus	|	36809
+2	|	Mycobacterium africanum	|	Mycobacterium tuberculosis variant africanum	|	33894
+1	|	Mycobacterium avium	|	 	|	1764
+2	|	Mycobacterium bovis	|	Mycobacterium tuberculosis variant bovis	|	1765
+1	|	Mycobacterium chelonae	|	Mycobacteroides chelonae	|	1774
+1	|	Mycobacterium flavescens	|	Mycolicibacterium flavescens	|	1776
+1	|	Mycobacterium fortuitum	|	Mycolicibacterium fortuitum	|	1766
+1	|	Mycobacterium gordonae	|	 	|	1778
+1	|	Mycobacterium hassiacum	|	Mycolicibacterium hassiacum	|	46351
+1	|	Mycobacterium intracellulare	|	 	|	1767
+1	|	Mycobacterium kansasii	|	 	|	1768
+1	|	Mycobacterium lentiflavum	|	 	|	141349
+1	|	Mycobacterium leprae	|	 	|	1769
+1	|	Mycobacterium malmoense	|	 	|	1780
+1	|	Mycobacterium marinum	|	 	|	1781
+1	|	Mycobacterium neoaurum	|	Mycolicibacterium neoaurum	|	1795
+1	|	Mycobacterium scrofulaceum	|	 	|	1783
+1	|	Mycobacterium simiae	|	 	|	1784
+1	|	Mycobacterium smegmatis	|	Mycolicibacterium smegmatis	|	1772
+1	|	Mycobacterium szulgai	|	 	|	1787
+1	|	Mycobacterium terrae	|	Mycolicibacter terrae	|	1788
+1	|	Mycobacterium tuberculosis	|	 	|	1773
+1	|	Mycobacterium xenopi	|	 	|	1789
+1	|	Mycoplasma fermentans	|	Mycoplasmopsis fermentans	|	2115
+1	|	Mycoplasma genitalium	|	Mycoplasmoides genitalium	|	2097
+1	|	Mycoplasma hominis	|	Metamycoplasma hominis	|	2098
+1	|	Mycoplasma penetrans	|	Malacoplasma penetrans	|	28227
+1	|	Mycoplasma pirum	|	Mycoplasmoides pirum	|	2122
+1	|	Mycoplasma pneumoniae	|	Mycoplasmoides pneumoniae	|	2104
+1	|	Mycoplasma primatum	|	Mycoplasmopsis primatum	|	55604
+1	|	Myroides injenensis	|	 	|	1183151
+1	|	Myroides odoratimimus	|	 	|	76832
+1	|	Nanobacterium sanguineum	|	 	|	53024
+1	|	Negativicoccus succinicivorans	|	 	|	620903
+1	|	Neisseria cinerea	|	 	|	483
+1	|	Neisseria flavescens	|	 	|	484
+1	|	Neisseria gonorrhoeae	|	 	|	485
+1	|	Neisseria meningitidis	|	 	|	487
+1	|	Neisseria mucosa	|	 	|	488
+1	|	Neisseria perflava	|	 	|	33053
+1	|	Neisseria polysaccharea	|	 	|	489
+1	|	Neisseria sicca	|	 	|	490
+1	|	Neisseria subflava	|	 	|	28449
+1	|	Nocardia asteroides	|	 	|	1824
+1	|	Nocardia farcinica	|	 	|	37329
+1	|	Nocardia otitidiscaviarum	|	 	|	1823
+1	|	Nocardia veterana	|	 	|	132249
+1	|	Nosocomiicoccus ampullae	|	 	|	489910
+1	|	Oblitimonas alkaliphila	|	Thiopseudomonas alkaliphila	|	1697053
+1	|	Ochrobactrum tritici	|	Brucella tritici	|	94626
+1	|	Oligella ureolytica	|	 	|	90244
+1	|	Oligella urethralis	|	 	|	90245
+1	|	Olsenella urininfantis	|	 	|	1871033
+1	|	Orientia tsutsugamushi	|	 	|	784
+1	|	Paenibacillus alvei	|	 	|	44250
+1	|	Paenibacillus amylolyticus	|	 	|	1451
+1	|	Paenibacillus urinalis	|	 	|	521520
+1	|	Pantoea agglomerans	|	 	|	549
+1	|	Pantoea calida	|	Mixta calida	|	665913
+1	|	Pantoea dispersa	|	 	|	59814
+1	|	Pantoea septica	|	 	|	472695
+1	|	Parachlamydia acanthamoebae	|	 	|	83552
+1	|	Paraclostridium bifermentans	|	 	|	1490
+1	|	Parasutterella excrementihominis	|	 	|	487175
+1	|	Pasteurella aerogenes	|	[Pasteurella] aerogenes	|	749
+1	|	Pasteurella bettyae	|	 	|	752
+1	|	Pasteurella multocida	|	 	|	747
+1	|	Pedobacter rhizospharae	|	Pedobacter rhizosphaerae	|	390241
+1	|	Pediococcus acidilactici	|	 	|	1254
+1	|	Pediococcus pentosaceus	|	 	|	1255
+1	|	Peptococcus niger	|	 	|	2741
+1	|	Peptoniphilus asaccharolyticus	|	 	|	1258
+1	|	Peptoniphilus coxii	|	Aedoeadaptatus coxii	|	755172
+1	|	Peptoniphilus gorbachii	|	 	|	411567
+1	|	Peptoniphilus harei	|	 	|	54005
+1	|	Peptoniphilus urinimassiliensis	|	Aedoeadaptatus urinae	|	1871017
+1	|	Peptostreptococcus anaerobius	|	 	|	1261
+1	|	Peptostreptococcus micros	|	Parvimonas micra	|	33033
+1	|	Photobacterium damselae	|	 	|	38293
+1	|	Porphyromonas bennonis	|	 	|	501496
+1	|	Porphyromonas circumdentaria	|	 	|	29524
+1	|	Porphyromonas somerae	|	 	|	322095
+1	|	Porphyromonas uenonis	|	 	|	281920
+1	|	Prevotella bergensis	|	Hallella bergensis	|	242750
+1	|	Prevotella bivia	|	 	|	28125
+1	|	Prevotella buccalis	|	Hoylesella buccalis	|	28127
+1	|	Prevotella corporis	|	 	|	28128
+1	|	Prevotella disiens	|	 	|	28130
+1	|	Prevotella melaninogenica	|	 	|	28132
+1	|	Prevotella ruminicola	|	Xylanibacter ruminicola	|	839
+1	|	Prevotella timonensis	|	Hoylesella timonensis	|	386414
+1	|	Propionibacterium acnes	|	Cutibacterium acnes	|	1747
+1	|	Propionibacterium avidum	|	Cutibacterium avidum	|	33010
+1	|	Propionibacterium propionicum	|	Arachnia propionica	|	1750
+1	|	Propionicicella superfundia	|	 	|	348582
+1	|	Propionimicrobium lymphophilum	|	 	|	33012
+1	|	Propionispira arcuata	|	 	|	433321
+1	|	Proteus inconstans	|	 	|	84631
+1	|	Proteus mirabilis	|	 	|	584
+1	|	Proteus penneri	|	 	|	102862
+1	|	Proteus vulgaris	|	 	|	585
+1	|	Providencia alcalifaciens	|	 	|	126385
+1	|	Providencia rettgeri	|	 	|	587
+1	|	Providencia stuartii	|	 	|	588
+1	|	Pseudoclavibacter alba	|	Pseudoclavibacter albus	|	272241
+1	|	Pseudoglutamicibacter albus	|	 	|	98671
+1	|	Pseudomonas aeruginosa	|	 	|	287
+1	|	Pseudomonas alcaligenes	|	Aquipseudomonas alcaligenes	|	43263
+1	|	Pseudomonas denitrificans	|	Pseudomonas denitrificans (nom. rej.)	|	43306
+1	|	Pseudomonas fluorescens	|	 	|	294
+1	|	Pseudomonas luteola	|	 	|	47886
+1	|	Pseudomonas mendocina	|	Ectopseudomonas mendocina	|	300
+1	|	Pseudomonas monteilii	|	 	|	76759
+1	|	Pseudomonas mosselii	|	 	|	78327
+1	|	Pseudomonas oryzihabitans	|	 	|	47885
+1	|	Pseudomonas poae	|	 	|	200451
+1	|	Pseudomonas putida	|	 	|	303
+1	|	Pseudomonas reactans	|	 	|	117680
+1	|	Pseudomonas stutzeri	|	Stutzerimonas stutzeri	|	316
+1	|	Pseudomonas trivialis	|	 	|	200450
+1	|	Pseudoramibacter alactolyticus	|	 	|	113287
+1	|	Psychrobacter phenylpyruvicus	|	 	|	29432
+1	|	Rahnella aquatilis	|	 	|	34038
+1	|	Ralstonia pickettii	|	 	|	329
+1	|	Raoultella ornithinolytica	|	 	|	54291
+1	|	Raoultella planticola	|	 	|	575
+1	|	Raoultella terrigena	|	 	|	577
+1	|	Rhizobium radiobacter	|	Agrobacterium radiobacter	|	362
+1	|	Rhodanobacter terrae	|	 	|	418647
+1	|	Rickettsia japonica	|	 	|	35790
+1	|	Roseburia inulinivorans	|	 	|	360807
+1	|	Rothia dentocariosa	|	 	|	2047
+1	|	Rothia mucilaginosa	|	 	|	43675
+1	|	Ruminococcus bromii	|	 	|	40518
+1	|	Ruminococcus flavefaciens	|	 	|	1265
+1	|	Saccharomonospora guangxiensis	|	 	|	89365
+2	|	Salmonella choleraesuis	|	Salmonella enterica	|	28901
+1	|	Salmonella enterica	|	 	|	28901
+2	|	Salmonella newport	|	Salmonella enterica subsp. enterica serovar Newport	|	108619
+2	|	Salmonella paratyphi	|	Salmonella enterica subsp. enterica serovar Paratyphi A	|	54388
+2	|	Salmonella typhi	|	Salmonella enterica subsp. enterica serovar Typhi	|	90370
+2	|	Salmonella typhimurium	|	Salmonella enterica subsp. enterica serovar Typhimurium	|	90371
+1	|	Serratia fonticola	|	 	|	47917
+1	|	Serratia liquefaciens	|	 	|	614
+1	|	Serratia marcescens	|	 	|	615
+1	|	Serratia quinivorans	|	 	|	137545
+1	|	Serratia rubidaea	|	 	|	61652
+1	|	Serratia odorifera	|	 	|	618
+1	|	Shewanella putrefaciens	|	 	|	24
+1	|	Shigella dysenteriae	|	 	|	622
+1	|	Shigella flexneri	|	 	|	623
+1	|	Shigella sonnei	|	 	|	624
+1	|	Simplicispira psychrophila	|	 	|	80882
+1	|	Slackia exigua	|	 	|	84109
+1	|	Sneathia sanguinegens	|	 	|	40543
+1	|	Sphingobium xanthum	|	 	|	1387165
+1	|	Sphingomonas paucimobilis	|	 	|	13689
+1	|	Sporolactobacillus inulinus	|	 	|	2078
+1	|	Staphylococcus aureus	|	 	|	1280
+1	|	Staphylococcus capitis	|	 	|	29388
+1	|	Staphylococcus caprae	|	 	|	29380
+1	|	Staphylococcus chromogenes	|	 	|	46126
+1	|	Staphylococcus cohnii	|	 	|	29382
+1	|	Staphylococcus croceolyticus	|	Staphylococcus croceilyticus	|	319942
+1	|	Staphylococcus epidermidis	|	 	|	1282
+1	|	Staphylococcus haemolyticus	|	 	|	1283
+1	|	Staphylococcus hominis	|	 	|	1290
+1	|	Staphylococcus hyicus	|	 	|	1284
+2	|	Staphylococcus jettensis	|	Staphylococcus petrasii	|	1276936
+1	|	Staphylococcus lentus	|	Mammaliicoccus lentus	|	42858
+1	|	Staphylococcus lugdunensis	|	 	|	28035
+1	|	Staphylococcus nepalensis	|	 	|	214473
+1	|	Staphylococcus pasteuri	|	 	|	45972
+1	|	Staphylococcus petrasii	|	 	|	1276936
+1	|	Staphylococcus saprophyticus	|	 	|	29385
+1	|	Staphylococcus schleiferi	|	 	|	1295
+1	|	Staphylococcus sciuri	|	Mammaliicoccus sciuri	|	1296
+1	|	Staphylococcus simulans	|	 	|	1286
+1	|	Staphylococcus vitulinus	|	Mammaliicoccus vitulinus	|	71237
+1	|	Staphylococcus warneri	|	 	|	1292
+1	|	Staphylococcus xylosus	|	 	|	1288
+1	|	Stenotrophomonas maltophilia	|	 	|	40324
+1	|	Streptococcus acidominimus	|	 	|	1326
+1	|	Streptococcus agalactiae	|	 	|	1311
+1	|	Streptococcus anginosus	|	 	|	1328
+2	|	Streptococcus bovis	|	Streptococcus equinus	|	1335
+1	|	Streptococcus canis	|	 	|	1329
+1	|	Streptococcus constellatus	|	 	|	76860
+1	|	Streptococcus cristatus	|	 	|	45634
+1	|	Streptococcus dysgalactiae	|	 	|	1334
+1	|	Streptococcus equinus	|	 	|	1335
+1	|	Streptococcus gallolyticus	|	 	|	315405
+1	|	Streptococcus gordonii	|	 	|	1302
+1	|	Streptococcus intermedius	|	 	|	1338
+1	|	Streptococcus milleri	|	 	|	33040
+1	|	Streptococcus mitis	|	 	|	28037
+1	|	Streptococcus mutans	|	 	|	1309
+1	|	Streptococcus oralis	|	 	|	1303
+1	|	Streptococcus parasanguinis	|	 	|	1318
+1	|	Streptococcus pasteurianus	|	 	|	197614
+1	|	Streptococcus porcinus	|	 	|	1340
+1	|	Streptococcus pneumoniae	|	 	|	1313
+1	|	Streptococcus pseudopneumoniae	|	 	|	257758
+1	|	Streptococcus pseudoporcinus	|	 	|	361101
+1	|	Streptococcus pyogenes	|	 	|	1314
+1	|	Streptococcus salivarius	|	 	|	1304
+1	|	Streptococcus sanguinis	|	 	|	1305
+1	|	Streptococcus thermophilus	|	 	|	1308
+1	|	Streptococcus uberis	|	 	|	1349
+1	|	Streptococcus urinalis	|	 	|	149016
+1	|	Streptococcus vestibularis	|	 	|	1343
+1	|	Streptococcus viridans	|	 	|	78535
+1	|	Streptomyces albogriseolus	|	 	|	1887
+1	|	Sutterella stercoricanis	|	 	|	234908
+1	|	Tamaricihabitans halophyticus	|	 	|	1262583
+1	|	Tepidibacillus fermentans	|	 	|	1281767
+1	|	Tolumonas auensis	|	 	|	43948
+1	|	Treponema pallidum	|	 	|	160
+3	|	Tropherima whipplei	|	 	|	 
+1	|	Trueperella bernardiae	|	 	|	59561
+1	|	Turicibacter sanguinis	|	 	|	154288
+1	|	Ureaplasma parvum	|	 	|	134821
+1	|	Ureaplasma urealyticum	|	 	|	2130
+1	|	Urinacoccus massiliensis	|	Urinicoccus massiliensis	|	1723382
+1	|	Varibaculum cambriense	|	 	|	184870
+1	|	Veillonella montpellierensis	|	 	|	187328
+1	|	Veillonella parvula	|	 	|	29466
+1	|	Vibrio cholerae	|	 	|	666
+3	|	Vibrio fluvalis	|	 	|	 
+1	|	Vibrio vulnificus	|	 	|	672
+1	|	Waddlia chondrophila	|	 	|	71667
+1	|	Wautersiella falsenii	|	Empedobacter falsenii	|	343874
+1	|	Weeksella massiliensis	|	 	|	1461577
+1	|	Wolinella succinogenes	|	 	|	844
+1	|	Xanthomonas arboricola	|	 	|	56448
+1	|	Yersinia enterocolitica	|	 	|	630
+1	|	Yersinia intermedia	|	 	|	631
+1	|	Yersinia kristensenii	|	 	|	28152
+1	|	Yersinia pseudotuberculosis	|	 	|	633
+1	|	Abiotrophia defectiva	|	 	|	46125
+1	|	Achromobacter xylosoxidans	|	 	|	85698
+1	|	Acidaminococcus intestini	|	 	|	187327
+1	|	Acinetobacter baumannii	|	 	|	470
+1	|	Acinetobacter calcoaceticus	|	 	|	471
+1	|	Acinetobacter sp.	|	 	|	472
+1	|	Actinobaculum massiliense	|	 	|	202789
+1	|	Actinomyces europaeus	|	Gleimia europaea	|	66228
+3	|	Winkia neuii (former Actinomyces neuii)	|	 	|	 
+1	|	Actinomyces sp.	|	 	|	29317
+1	|	Actinomyces turicensis	|	Schaalia turicensis	|	131111
+1	|	Actinomyces urogenitalis	|	 	|	103621
+1	|	Actinomyces viscosus	|	 	|	1656
+1	|	Actinotignum schaalii	|	 	|	59505
+1	|	Aerococcus christensenii	|	 	|	87541
+1	|	Akkermansia muciniphila	|	 	|	239935
+1	|	Alistipes putredinis	|	 	|	28117
+1	|	Alistipes sp.	|	 	|	1872444
+1	|	Anaerococcus hydrogenalis	|	 	|	33029
+1	|	Anaerococcus lactolyticus	|	 	|	33032
+1	|	Anaerococcus obesiensis	|	 	|	1287640
+1	|	Anaerococcus octavius	|	 	|	54007
+1	|	Anaerococcus prevotii	|	 	|	33034
+1	|	Anaerococcus rubiinfantis	|	Anaerococcus rubeinfantis	|	1720199
+1	|	Anaerococcus senegalensis	|	 	|	1288120
+1	|	Anaerococcus sp.	|	 	|	1872515
+1	|	Anaerococcus tetradius	|	 	|	33036
+1	|	Anaerococcus vaginalis	|	 	|	33037
+1	|	Anaeroglobus geminatus	|	 	|	156456
+1	|	Anaeroglobus sp.	|	 	|	1872518
+1	|	Anaerostipes hadrus	|	 	|	649756
+1	|	Arcanobacterium sp.	|	 	|	72409
+1	|	Atopobium minutum	|	 	|	1381
+1	|	Atopobium sp.	|	 	|	1872650
+1	|	Fannyhessea vaginae	|	 	|	82135
+1	|	Bacillus muralis	|	Peribacillus muralis	|	264697
+1	|	Bacillus oleronius	|	Heyndrickxia oleronia	|	38875
+1	|	Bacillus simplex	|	Peribacillus simplex	|	1478
+1	|	Bacillus sp.	|	Bacillus sp. (in: firmicutes)	|	1409
+1	|	Bacteroides caccae	|	 	|	47678
+1	|	Bacteroides dorei	|	Phocaeicola dorei	|	357276
+1	|	Bacteroides galacturonicus	|	 	|	384639
+1	|	Bacteroides intestinalis	|	 	|	329854
+1	|	Bacteroides ovatus	|	 	|	28116
+1	|	Bacteroides sp.	|	 	|	29523
+1	|	Bacteroides uniformis	|	 	|	820
+1	|	Bacteroides vulgatus	|	Phocaeicola vulgatus	|	821
+1	|	Bifidobacterium breve	|	 	|	1685
+1	|	Blautia luti	|	 	|	89014
+1	|	Blautia sp.	|	 	|	1955243
+1	|	Brevibacillus borstelensis	|	 	|	45462
+1	|	Brevibacterium paucivorans	|	 	|	170994
+1	|	Brevibacterium ravenspurgense	|	 	|	479117
+1	|	Brevundimonas vesicularis	|	 	|	41276
+1	|	Brooklawnia massiliensis	|	 	|	461392
+1	|	Campylobacter hominis	|	 	|	76517
+1	|	Campylobacter ureolyticus	|	 	|	827
+1	|	Candidatus Peptoniphilus massiliensis	|	 	|	337315
+1	|	Casaltella massiliensis	|	 	|	938278
+1	|	Citrobacter koseri	|	 	|	545
+1	|	Citrobacter sp.	|	 	|	1896336
+1	|	Clostridium sp.	|	 	|	1506
+1	|	Collinsella aerofaciens	|	 	|	74426
+1	|	Coprococcus catus	|	 	|	116085
+1	|	Corynebacterium amycolatum	|	 	|	43765
+1	|	Corynebacterium aurimucosum	|	 	|	169292
+1	|	Corynebacterium coyleae	|	 	|	53374
+1	|	Corynebacterium diphtheriae	|	 	|	1717
+1	|	Corynebacterium jeikeium	|	 	|	38289
+1	|	Corynebacterium minutissimum	|	 	|	38301
+1	|	Corynebacterium pilbarense	|	 	|	1288393
+1	|	Corynebacterium riegelii	|	 	|	156976
+1	|	Corynebacterium simulans	|	 	|	146827
+1	|	Corynebacterium singulare	|	 	|	161899
+1	|	Corynebacterium sp.	|	 	|	1720
+1	|	Corynebacterium sundsvallense	|	 	|	161902
+1	|	Corynebacterium thomssenii	|	 	|	62629
+1	|	Corynebacterium tuberculostearicum	|	 	|	38304
+1	|	Corynebacterium tuscaniense	|	 	|	302449
+1	|	Corynebacterium urealyticum	|	 	|	43771
+1	|	Cupriavidus pauculus	|	 	|	82633
+1	|	Cupriavidus sp.	|	 	|	1873897
+1	|	Cutibacterium acnes	|	 	|	1747
+1	|	Delftia acidovorans	|	 	|	80866
+1	|	Delftia sp.	|	 	|	1886637

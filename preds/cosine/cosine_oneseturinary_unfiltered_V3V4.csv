@@ -1,0 +1,395 @@
+test_seq_id,similarity,domain,phylum,class,order,family,genus,species
+>PQ865235.1 Bacteroides thetaiotaomicron strain BT14827589 16S ribosomal RNA gene,0.9954537715191581,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis
+>PV130082.1 Staphylococcus saprophyticus strain JK135-1 16S ribosomal RNA gene,0.9503042269789902,Bacteria,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus saprophyticus
+>PQ676188.1 Raoultella terrigena strain AL46 16S ribosomal RNA gene,0.9558358053287807,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella aerogenes
+>MW566797.1 Atopobium minutum strain c11Ua_29_AN 16S ribosomal RNA gene,0.9080302735286864,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Atopobiaceae,Atopobium,Atopobium minutum
+>OP269710.1 Limosilactobacillus coleohominis strain A3 16S ribosomal RNA gene,0.9851835984398329,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Limosilactobacillus,Limosilactobacillus coleohominis
+>OM980087.1 Lactobacillus crispatus strain 642 16S ribosomal RNA gene,0.9718469371624368,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus crispatus
+>MZ723757.1 Bifidobacterium dentium strain MUS37 16S ribosomal RNA gene,0.8307125547641371,Bacteria,Actinomycetota,Actinomycetes,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium dentium
+>NR_026375.1 Corynebacterium sundsvallense strain CCUG 36622 16S ribosomal RNA,0.9740530511246078,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium sundsvallense
+>LC021431.1 Mesoflavibacter zeaxanthinifaciens gene for 16S ribosomal RNA,0.9886080237418666,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Mesoflavibacter,Mesoflavibacter zeaxanthinifaciens
+>PQ396999.1 Caldibacillus thermoamylovorans strain V8254 16S ribosomal RNA gene,0.9899666623512745,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Caldibacillus,Caldibacillus thermoamylovorans
+>PV363051.1 Kluyvera intermedia strain YB11 16S ribosomal RNA gene,0.9541732287206893,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Citrobacter,Citrobacter braakii
+>MH999427.1 Neisseria flavescens strain 7 16S ribosomal RNA gene,0.8861946405810245,Bacteria,Pseudomonadota,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria flavescens
+>PP658385.1 Streptococcus porcinus strain LES-SNN-S-52 16S ribosomal RNA gene,0.9319021543029589,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pseudoporcinus
+>PV325053.1 Acinetobacter schindleri strain AM3 16S ribosomal RNA gene,0.9531406445932447,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter schindleri
+>PV242487.1 Acinetobacter baumannii strain PSW3 16S ribosomal RNA gene,0.7796053245995515,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter guillouiae
+>NR_044128.1 Rhodanobacter terrae strain GP18-1 16S ribosomal RNA,0.2798924076268514,Bacteria,Pseudomonadota,Gammaproteobacteria,Lysobacterales,Lysobacteraceae,Stenotrophomonas,Stenotrophomonas maltophilia
+>PQ432638.1 Cronobacter sakazakii strain GZWY-4Y 16S ribosomal RNA gene,0.8755452306303695,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Cronobacter,Cronobacter sakazakii
+>PV265503.1 Microbacterium oxydans strain A42-2 16S ribosomal RNA gene,0.7837466622216772,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Microbacteriaceae,Microbacterium,Microbacterium oxydans
+>OR253484.1 Facklamia hominis strain PCU18 16S ribosomal RNA gene,0.9143741194131141,Bacteria,Bacillota,Bacilli,Lactobacillales,Aerococcaceae,Facklamia,Facklamia hominis
+>OL587854.1 Cutibacterium avidum strain KGMB02810 16S ribosomal RNA gene,0.9640439383361717,Bacteria,Actinomycetota,Actinomycetes,Propionibacteriales,Propionibacteriaceae,Cutibacterium,Cutibacterium avidum
+>OK652542.1 Arcanobacterium hippocoleae strain A. hipocoleae_LBV077/21 16S ribosomal RNA gene,0.9678686969904786,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Actinomycetaceae,Arcanobacterium,Arcanobacterium hippocoleae
+>PP590310.1 Serratia rubidaea strain PKB 5 16S ribosomal RNA gene,0.9315582250228074,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia rubidaea
+>PQ805343.1 Streptococcus mutans strain RS11 16S ribosomal RNA gene,0.9698920830342715,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus mutans
+>PV362415.1 Clostridium perfringens strain MC15 16S ribosomal RNA gene,0.7390567371382819,Bacteria,Bacillota,Clostridia,Eubacteriales,Clostridiaceae,Clostridium,Clostridium perfringens
+>OQ981480.1 Actinomyces oris strain WVU626 16S ribosomal RNA gene,0.972030147972341,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Actinomycetaceae,Actinomyces,Actinomyces oris
+>MT585548.1 Corynebacterium kroppenstedtii strain 863 16S ribosomal RNA gene,0.9677757715941078,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium kroppenstedtii
+>PQ838429.1 Acinetobacter johnsonii strain CEMTC_4284 16S ribosomal RNA gene,0.9661693685190561,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter johnsonii
+>NR_108388.1 Flindersiella endophytica strain EUM 378 16S ribosomal RNA,0.5808812727102025,Bacteria,Actinomycetota,Actinomycetes,Propionibacteriales,Nocardioidaceae,Flindersiella,Flindersiella endophytica
+>PQ057040.1 Acidovorax radicis strain WPP1 16S ribosomal RNA gene,0.9611112911379303,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Acidovorax,Acidovorax radicis
+>OR554137.1 Bacteroides ovatus strain NWAFU G7 16S ribosomal RNA gene,0.9797274183336345,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides ovatus
+>PV202325.1 Raoultella ornithinolytica strain MLNSH 33 16S ribosomal RNA gene,0.8152236087659309,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Raoultella,Raoultella ornithinolytica
+>PV262729.1 Acinetobacter baumannii strain SSEDAV 16S ribosomal RNA gene,0.8683853037358731,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter baumannii
+>OR262836.1 Acinetobacter johnsonii strain XY-91 16S ribosomal RNA gene,0.8633945978093355,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter johnsonii
+>MW541829.1 Slackia exigua strain KCOM 3570 (=JS476) 16S ribosomal RNA gene,0.9828419627793293,Bacteria,Actinomycetota,Coriobacteriia,Eggerthellales,Eggerthellaceae,Slackia,Slackia exigua
+>MZ563015.1 Corynebacterium kroppenstedtii strain HMCS41 16S ribosomal RNA gene,0.3347456447708852,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium kroppenstedtii
+>OP847382.1 Microbacterium testaceum strain A27 16S ribosomal RNA gene,0.9703145742973646,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Microbacteriaceae,Microbacterium,Microbacterium paraoxydans
+>PV382272.1 Bacillus sp. (in: firmicutes) strain Tr97 16S ribosomal RNA gene,0.9502996377590833,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus subtilis
+>ON426817.1 Aeromonas popoffii strain S1 16S ribosomal RNA gene,0.9636990516733689,Bacteria,Pseudomonadota,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas popoffii
+>PV242988.1 Aeromonas hydrophila strain ZOOGU-MJB-01 16S ribosomal RNA gene,0.8786978083828048,Bacteria,Pseudomonadota,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas hydrophila
+>PP723424.1 Delftia acidovorans strain JUb175 16S ribosomal RNA gene,0.9939089951389805,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Delftia,Delftia acidovorans
+>MG984087.1 Pseudoglutamicibacter cumminsii strain MSP18b 16S ribosomal RNA gene,0.8760977913676282,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Micrococcus,Micrococcus lylae
+>OK083590.1 Kerstersia gyiorum strain SJ300 16S ribosomal RNA gene,0.9107802437917205,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Kerstersia,Kerstersia gyiorum
+>PQ274897.1 Serratia rubidaea strain Kd3211 16S ribosomal RNA gene,0.6712892568259572,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia marcescens
+>PV224683.1 Staphylococcus lugdunensis strain T31-73 16S ribosomal RNA gene,0.9698766547105835,Bacteria,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus lugdunensis
+>PV382977.1 Enterococcus faecalis strain N3 16S ribosomal RNA gene,0.9713694628569896,Bacteria,Bacillota,Bacilli,Lactobacillales,Aerococcaceae,Facklamia,Facklamia hominis
+>PV065997.1 Enterobacter ludwigii strain ##3D 16S ribosomal RNA gene,0.928000903438793,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,Enterobacter kobei
+>ON724177.1 Capnocytophaga ochracea strain KCOM 2812 (= ChDC OSN10) 16S ribosomal RNA gene,0.9206219502934312,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Capnocytophaga,Capnocytophaga ochracea
+>PP947432.1 Acinetobacter johnsonii strain HBUAS76028 16S ribosomal RNA gene,0.9275958292948622,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter johnsonii
+>PQ609949.1 Yersinia enterocolitica strain PE1(2) 16S ribosomal RNA gene,0.9794538354351179,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia enterocolitica
+>PQ898387.1 Aeromonas hydrophila strain RF_G_JISU_2025 16S ribosomal RNA gene,0.9267072789920825,Bacteria,Pseudomonadota,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas salmonicida
+>KF733721.1 Neisseria flavescens strain ChDC B580 16S ribosomal RNA gene,0.9230191986570341,Bacteria,Pseudomonadota,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria subflava
+>PV022552.1 Streptomyces albogriseolus strain S1 16S ribosomal RNA gene,0.9883875371602924,Bacteria,Actinomycetota,Actinomycetes,Kitasatosporales,Streptomycetaceae,Streptomyces,Streptomyces albogriseolus
+>PP390659.1 Citrobacter koseri strain ES6 16S ribosomal RNA gene,0.8587360148773964,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica
+>AY757357.1 Gemella sanguinis 16S ribosomal RNA gene,0.8923724670522044,Bacteria,Bacillota,Bacilli,Bacillales,Gemellaceae,Gemella,Gemella sanguinis
+>PV111310.1 Citrobacter freundii strain FVBA25 16S ribosomal RNA gene,0.9228677273883826,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Citrobacter,Citrobacter braakii
+>PQ268926.1 Mannheimia haemolytica strain MH-1 16S ribosomal RNA gene,0.946876035637202,Bacteria,Pseudomonadota,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Mannheimia,Mannheimia haemolytica
+>PP390661.1 Brucella tritici strain ESC21 16S ribosomal RNA gene,0.9850019423447053,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Brucellaceae,Brucella,Brucella abortus
+>AB117562.1 Bilophila wadsworthia gene for 16S rRNA,0.9713091995469443,Bacteria,Thermodesulfobacteriota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,Bilophila,Bilophila wadsworthia
+>PQ782580.1 Enterobacter asburiae strain LT509 16S ribosomal RNA gene,0.9940655879445205,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,Enterobacter hormaechei
+>PQ810337.1 Citrobacter freundii strain Esraa-16 16S ribosomal RNA gene,0.6293072570579963,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Citrobacter,Citrobacter youngae
+>LC764408.1 Neisseria mucosa IRQBAS-162 gene for 16S rRNA,0.9536069836527246,Bacteria,Pseudomonadota,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria perflava
+>PV162622.1 Streptococcus mutans strain SM1 16S ribosomal RNA gene,0.9833021877559225,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus mutans
+>NR_024849.1 Corynebacterium thomssenii strain DSM 44276 16S ribosomal RNA,0.9802915970335954,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium sundsvallense
+>OM900033.1 Alistipes finegoldii strain Granada 16S ribosomal RNA gene,0.9875709568346398,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes finegoldii
+>EU434443.1 Simplicispira psychrophila strain a217 16S ribosomal RNA gene,0.7791096596533658,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Simplicispira,Simplicispira psychrophila
+>PV362418.1 Clostridium perfringens strain MC39 16S ribosomal RNA gene,0.7127114875603769,Bacteria,Bacillota,Clostridia,Eubacteriales,Clostridiaceae,Clostridium,Clostridium perfringens
+>MK424041.1 Peptostreptococcus anaerobius strain DCW_SL_39A 16S ribosomal RNA gene,0.8573383571201251,Bacteria,Bacillota,Clostridia,Peptostreptococcales,Peptostreptococcaceae,Peptostreptococcus,Peptostreptococcus anaerobius
+>PQ857186.1 Sphingomonas paucimobilis strain M789A92 16S ribosomal RNA gene,0.994642079617179,Bacteria,Pseudomonadota,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,Sphingomonas paucimobilis
+>OQ135196.1 Pseudomonas luteola strain M2 16S ribosomal RNA gene,0.8851271698255342,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas luteola
+>LC764395.1 Neisseria perflava IRQBAS-157 gene for 16S rRNA,0.9567267661610742,Bacteria,Pseudomonadota,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria flavescens
+>PP814864.1 Serratia liquefaciens strain XZ22 16S ribosomal RNA gene,0.9383566559216868,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia liquefaciens
+>NR_118815.1 Psychrobacter phenylpyruvicus strain ATCC 23333 16S ribosomal RNA,0.63598580636891,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Psychrobacter,Psychrobacter phenylpyruvicus
+>PP806180.1 Moraxella catarrhalis strain 6B_EMB 16S ribosomal RNA gene,0.9280679146056248,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Moraxella,Moraxella catarrhalis
+>NR_025068.1 Mycoplasmopsis primatum strain HRC292 16S ribosomal RNA,0.5920988091585505,Bacteria,Mycoplasmatota,undefined,Mycoplasmoidales,Metamycoplasmataceae,Mycoplasmopsis,Mycoplasmopsis fermentans
+>OQ918546.1 Rothia mucilaginosa strain NA5 16S ribosomal RNA gene,0.12042649732833555,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Rothia,Rothia mucilaginosa
+>OR826278.1 Serratia liquefaciens strain CS-02 16S ribosomal RNA gene,0.9333621399200385,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia liquefaciens
+>MZ452141.1 Prevotella corporis strain 24a14 16S ribosomal RNA gene,0.9636225537198703,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella corporis
+>PV270601.1 Lactobacillus johnsonii strain 26294 16S ribosomal RNA gene,0.9828683316628423,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus gasseri
+>OR187758.1 Nocardia asteroides strain A03 16S ribosomal RNA gene,0.9601257372048053,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Nocardiaceae,Nocardia,Nocardia asteroides
+>PV276755.1 Phocaeicola vulgatus strain 27365 16S ribosomal RNA gene,0.9660050245019087,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus
+>ON383534.1 Gordonia terrae strain S5 16S ribosomal RNA gene,0.9641625463949234,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Gordoniaceae,Gordonia,Gordonia terrae
+>OL966982.1 Neisseria meningitidis strain CMCC(B) 29052 16S ribosomal RNA gene,0.9766134335342443,Bacteria,Pseudomonadota,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria polysaccharea
+>OR167064.1 Corynebacterium urealyticum strain NCT942 16S ribosomal RNA gene,0.7726317283246542,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium urealyticum
+>MT807387.1 Abiotrophia defectiva strain 391.3 16S ribosomal RNA gene,0.9499470562815019,Bacteria,Bacillota,Bacilli,Lactobacillales,Aerococcaceae,Abiotrophia,Abiotrophia defectiva
+>PP256551.1 Staphylococcus nepalensis strain MB69946 16S ribosomal RNA gene,0.9819731396985908,Bacteria,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus cohnii
+>OQ913615.1 Pseudomonas reactans strain HR2.13 16S ribosomal RNA gene,0.8937461054111149,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas reactans
+>PQ459693.1 Klebsiella pneumoniae subsp. ozaenae strain GC01 16S ribosomal RNA gene,0.8793092605030023,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae
+>PQ357718.1 Paenibacillus urinalis strain PM2 16S ribosomal RNA gene,0.9953072017755978,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus urinalis
+>KM037754.1 Mesoflavibacter zeaxanthinifaciens strain LOS34 16S ribosomal RNA gene,0.9372221707299914,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Mesoflavibacter,Mesoflavibacter zeaxanthinifaciens
+>OR437521.1 Acinetobacter guillouiae strain strain SK5 16S ribosomal RNA gene,0.9541035414215221,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter bereziniae
+>NR_025238.1 Mycobacterium tuberculosis variant africanum strain ATCC 25420 16S ribosomal RNA,0.9523958130117699,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium avium
+>PQ344149.1 Nocardia asteroides strain SM_476 16S ribosomal RNA gene,0.9856745552232881,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Nocardiaceae,Nocardia,Nocardia asteroides
+>PQ766350.1 Streptococcus urinalis strain c19Ua_60 16S ribosomal RNA gene,0.6880738117149945,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus agalactiae
+>KX242542.1 Staphylococcus schleiferi strain P16 16S ribosomal RNA gene,0.9894975503305828,Bacteria,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus schleiferi
+>PQ892002.1 Yersinia enterocolitica strain P12a 16S ribosomal RNA gene,0.9355112971533873,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia enterocolitica
+>NR_118882.1 Mycobacterium xenopi strain ATCC 19250 16S ribosomal RNA,0.9283842372438157,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium xenopi
+>PQ721423.1 Klebsiella pneumoniae subsp. ozaenae strain Kp20 16S ribosomal RNA gene,0.9255277002669947,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae
+>PV253962.1 Enterobacter cloacae strain DD8 16S ribosomal RNA gene,0.9715743256340191,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica
+>MT125884.1 Gemella morbillorum strain S20BTE003 16S ribosomal RNA gene,0.783330598485321,Bacteria,Bacillota,Bacilli,Bacillales,Gemellaceae,Gemella,Gemella morbillorum
+>PV342436.1 Enterobacter ludwigii strain 5CAG 16S ribosomal RNA gene,0.9498446238801889,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,Enterobacter kobei
+>EU086806.1 Arthrobacter cumminsii strain 742 16S ribosomal RNA gene,0.991874188603744,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Pseudoglutamicibacter,Pseudoglutamicibacter cumminsii
+>MH569545.1 Arcanobacterium haemolyticum strain 181580661 16S ribosomal RNA gene,0.9721779136352783,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Actinomycetaceae,Arcanobacterium,Arcanobacterium haemolyticum
+>PV162765.1 Burkholderia cepacia strain PbRFdsC0 16S ribosomal RNA gene,0.9393400878488106,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia cepacia
+>MW567140.1 Aedoeadaptatus coxii strain c26Ua_12_AN 16S ribosomal RNA gene,0.9864909970748601,Bacteria,Bacillota,Tissierellia,Tissierellales,Peptoniphilaceae,Aedoeadaptatus,Aedoeadaptatus coxii
+>PQ314693.1 Mixta calida strain HBUAS69603 16S ribosomal RNA gene,0.9491365399245318,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Mixta,Mixta calida
+>PP916655.1 Metamycoplasma hominis strain TZ0425 16S ribosomal RNA gene,0.9649931290094633,Bacteria,Mycoplasmatota,undefined,Mycoplasmoidales,Metamycoplasmataceae,Metamycoplasma,Metamycoplasma hominis
+>MW828041.1 Glutamicibacter creatinolyticus strain T255 16S ribosomal RNA gene,0.9029509386963301,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Glutamicibacter,Glutamicibacter creatinolyticus
+>PQ846560.1 Bacillus subtilis strain B12_contig_1 16S ribosomal RNA gene,0.9952788522851307,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus
+>PV203622.1 Xanthomonas arboricola strain X.arboricola_pv.juglandis_3or 16S ribosomal RNA gene,0.8791896032420303,Bacteria,Pseudomonadota,Gammaproteobacteria,Lysobacterales,Lysobacteraceae,Xanthomonas,Xanthomonas arboricola
+>PQ877279.1 Mammaliicoccus sciuri strain SH2-COTS 16S ribosomal RNA gene,0.7169193327526138,Bacteria,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Mammaliicoccus,Mammaliicoccus sciuri
+>PP967794.1 Citrobacter amalonaticus strain VAH13 16S ribosomal RNA gene,0.9824872032679316,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Citrobacter,Citrobacter amalonaticus
+>PQ687501.1 Salmonella enterica strain CC1 16S ribosomal RNA gene,0.8305049492454287,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella oxytoca
+>PV366750.1 Serratia marcescens strain WY26 16S ribosomal RNA gene,0.9274512108001765,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia marcescens
+>OR262695.1 Brevundimonas vesicularis strain XY-369 16S ribosomal RNA gene,0.8733104912055327,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas vesicularis
+>PV366734.1 Klebsiella pneumoniae strain NC20 16S ribosomal RNA gene,0.9427873122413021,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae
+>MK253662.1 Microvirga flocculans strain zyx-01 16S ribosomal RNA gene,0.8973120901598406,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Microvirga,Microvirga flocculans
+>OR625203.1 Glutamicibacter creatinolyticus strain ADF2 16S ribosomal RNA gene,0.8671676305077525,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Glutamicibacter,Glutamicibacter creatinolyticus
+>PV366834.1 Proteus mirabilis strain CIFRI.H1 16S ribosomal RNA gene,0.943417095655716,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Morganellaceae,Proteus,Proteus mirabilis
+>KY346501.1 Corynebacterium diphtheriae strain Cdip1 16S ribosomal RNA gene,0.9552934808904633,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium diphtheriae
+>PV235953.1 Lactobacillus acidophilus strain AG07 16S ribosomal RNA gene,0.9140108184921748,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus acidophilus
+>PQ225841.1 Bacteroides intestinalis strain C2-GN-3-1-95 16S ribosomal RNA gene,0.9074840993400949,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides intestinalis
+>OR398762.1 Gemella morbillorum strain F37 16S ribosomal RNA gene,0.9776489437818509,Bacteria,Bacillota,Bacilli,Bacillales,Gemellaceae,Gemella,Gemella morbillorum
+>MN193082.1 Proteus myxofaciens strain ISYO12 16S ribosomal RNA gene,0.9568202796189933,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Morganellaceae,Proteus,Proteus myxofaciens
+>OM491517.1 Rothia kristinae strain 96 16S ribosomal RNA gene,0.9592777364631807,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Rothia,Rothia kristinae
+>KX639818.1 Citrobacter youngae strain ZF2 16S ribosomal RNA gene,0.916286568330791,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Citrobacter,Citrobacter braakii
+>LR899004.1 Aggregatibacter actinomycetemcomitans partial 16S rRNA gene,0.8830782817570124,Bacteria,Pseudomonadota,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Aggregatibacter,Aggregatibacter actinomycetemcomitans
+>MT299733.1 Eikenella corrodens strain KCOM 3111 (=JS218) 16S ribosomal RNA gene,0.9566698012544238,Bacteria,Pseudomonadota,Betaproteobacteria,Neisseriales,Neisseriaceae,Eikenella,Eikenella corrodens
+>PP833011.1 Acinetobacter septicus strain 2A4D1 16S ribosomal RNA gene,0.9066615102760127,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter ursingii
+>PP597224.1 Raoultella planticola strain PAARW094 16S ribosomal RNA gene,0.8806671939647571,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Raoultella,Raoultella planticola
+>MT436846.1 Actinomyces israelii strain KCOM 3214 (=JS321) 16S ribosomal RNA gene,0.9172500568689931,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Actinomycetaceae,Actinomyces,Actinomyces israelii
+>OP051096.1 Fusobacterium nucleatum strain JD-Fn4 16S ribosomal RNA gene,0.9790349724014545,Bacteria,Fusobacteriota,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium nucleatum
+>PV258518.1 Pseudomonas poae strain Va 16S ribosomal RNA gene,0.9868433503978356,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas poae
+>OP861648.1 Leptospira interrogans strain Gritsenko 16S ribosomal RNA gene,0.16162850280148633,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Coprococcus,Coprococcus eutactus
+>NR_029349.1 Fannyhessea vaginae strain 961*00022/98 16S ribosomal RNA,0.9401484080286581,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Atopobiaceae,Fannyhessea,Fannyhessea vaginae
+>AJ278695.1 Alloscardovia omnicolens partial 16S rRNA gene,0.931729390322223,Bacteria,Actinomycetota,Actinomycetes,Bifidobacteriales,Bifidobacteriaceae,Alloscardovia,Alloscardovia omnicolens
+>MH050410.1 Corynebacterium pilbarense strain BMC2N9 16S ribosomal RNA (16s ribosomal) gene,0.892303193080713,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium pilbarense
+>NR_115504.1 Anaerococcus hydrogenalis strain GIFU 7662 16S ribosomal RNA,0.6990668061501624,Bacteria,Bacillota,Tissierellia,Tissierellales,Peptoniphilaceae,Anaerococcus,Anaerococcus prevotii
+>PQ577996.1 Klebsiella aerogenes strain VPP_ISOLATE_4 16S ribosomal RNA gene,0.9450731965790317,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Kluyvera,Kluyvera cryocrescens
+>PQ789942.1 Mageeibacillus indolicus strain 0009-5 16S ribosomal RNA gene,0.9924234189214606,Bacteria,Bacillota,Clostridia,Eubacteriales,Oscillospiraceae,Mageeibacillus,Mageeibacillus indolicus
+>PV361224.1 Empedobacter falsenii strain SPWB 07,0.9667804253601537,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Empedobacter,Empedobacter falsenii
+>KP318828.1 Sneathia sanguinegens strain 357015/2014 16S ribosomal RNA gene,0.9604121271371773,Bacteria,Fusobacteriota,Fusobacteriia,Fusobacteriales,Leptotrichiaceae,Sneathia,Sneathia sanguinegens
+>GU561409.1 Gemella sanguinis strain PTE3 16S ribosomal RNA gene,0.9623328577407916,Bacteria,Bacillota,Bacilli,Bacillales,Gemellaceae,Gemella,Gemella sanguinis
+>PQ814386.1 Kluyvera intermedia strain CEMTC_10723 16S ribosomal RNA gene,0.9426404908208831,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Lelliottia,Lelliottia amnigena
+>MZ350527.1 Staphylococcus petrasii strain BM64 16S ribosomal RNA gene,0.9757017258070313,Bacteria,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus petrasii
+>OP824877.1 Mycobacterium lentiflavum strain 8MY 16S ribosomal RNA gene,0.9652947030346404,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium simiae
+>MH712979.1 Epilithonimonas tenax strain CH-66 16S ribosomal RNA gene,0.9459325226746093,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Epilithonimonas,Epilithonimonas tenax
+>KR020048.1 Neisseria sicca strain so153 16S ribosomal RNA gene,0.9804871842198845,Bacteria,Pseudomonadota,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria mucosa
+>PP733331.1 Megasphaera elsdenii strain SC8-1 16S ribosomal RNA gene,0.9594935289425087,Bacteria,Bacillota,Negativicutes,Veillonellales,Veillonellaceae,Megasphaera,Megasphaera elsdenii
+>LC589208.1 Aerococcus christensenii JCM 18985 gene for 16S rRNA,0.9211916265175613,Bacteria,Bacillota,Bacilli,Lactobacillales,Aerococcaceae,Aerococcus,Aerococcus christensenii
+>PP326260.1 Rothia mucilaginosa strain CEMTC_3893 16S ribosomal RNA gene,0.9673479516351574,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Rothia,Rothia mucilaginosa
+>OQ608825.1 Actinomyces naeslundii strain SU_NSB_3 16S ribosomal RNA gene,0.9025775243232733,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Actinomycetaceae,Actinomyces,Actinomyces naeslundii
+>PQ676146.1 Erysipelothrix inopinata strain LOGO101 16S ribosomal RNA gene,0.304418672388028,Bacteria,Bacillota,Erysipelotrichia,Erysipelotrichales,Coprobacillaceae,Thomasclavelia,Thomasclavelia ramosa
+>PQ282600.1 Mycobacteroides abscessus strain L-3552-2024 16S ribosomal RNA gene,0.6756444477359488,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycobacteroides,Mycobacteroides abscessus
+>MH999423.1 Neisseria flavescens strain 3 16S ribosomal RNA gene,0.9802579615377754,Bacteria,Pseudomonadota,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria flavescens
+>PV361916.1 Pseudomonas aeruginosa strain VPS2 16S ribosomal RNA gene,0.7643257830971223,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa
+>PQ845656.1 Corynebacterium glucuronolyticum isolate 1042616 16S ribosomal RNA gene,0.997008252401796,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium glucuronolyticum
+>LC764389.1 Rothia mucilaginosa IRQBAS-151 gene for 16S rRNA,0.969961850163406,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Rothia,Rothia mucilaginosa
+>PP486308.1 Bacteroides sp. strain GD17 16S ribosomal RNA gene,0.727093119470976,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis
+>PQ609951.1 Yersinia intermedia strain PH1 16S ribosomal RNA gene,0.9193965075389643,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia enterocolitica
+>MW504848.1 Lactobacillus jensenii strain 17039 16S ribosomal RNA gene,0.9644986276035626,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus jensenii
+>PV370798.1 Peribacillus simplex strain 101065ZC 16S ribosomal RNA gene,0.9462920873525564,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Peribacillus,Peribacillus muralis
+>MW407957.1 Corynebacterium sp. strain HND1 16S ribosomal RNA gene,0.9372350581180816,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium sp.
+>OR789547.1 Pseudomonas luteola strain HQA1 16S ribosomal RNA gene,0.9267470793002903,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas luteola
+>PP439630.1 Aquipseudomonas alcaligenes strain SR4 16S ribosomal RNA gene,0.5047527620653455,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Aquipseudomonas,Aquipseudomonas alcaligenes
+>KU613372.1 Elizabethkingia meningoseptica strain D18 16S ribosomal RNA gene,0.9273785313558961,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Elizabethkingia,Elizabethkingia meningoseptica
+>PV088852.1 Leuconostoc pseudomesenteroides strain NWAFU 4046 16S ribosomal RNA gene,0.9873186701564852,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Leuconostoc,Leuconostoc pseudomesenteroides
+>MN658338.1 Microvirga flocculans strain MMS19-R33 16S ribosomal RNA gene,0.8546591756553631,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,Methylobacteriaceae,Microvirga,Microvirga flocculans
+>PP911456.1 Serratia liquefaciens strain AD3 16S ribosomal RNA gene,0.8980487088927407,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia quinivorans
+>PQ804140.1 Aeromonas salmonicida strain SVMIICT62 16S ribosomal RNA gene,0.9587964126224707,Bacteria,Pseudomonadota,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas salmonicida
+>PQ608655.1 Erwinia persicina strain EP-1 16S ribosomal RNA gene,0.9153521117052427,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Erwinia,Erwinia persicina
+>PV239577.1 Providencia stuartii strain ps_nstu_001 16S ribosomal RNA gene,0.9616196779141101,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Morganellaceae,Providencia,Providencia stuartii
+>MN545432.1 Corynebacterium aurimucosum strain ML103-1 16S ribosomal RNA gene,0.44907168019114274,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium aurimucosum
+>NR_025892.1 Neisseria flavescens strain N 155 16S ribosomal RNA,0.8489347421620935,Bacteria,Pseudomonadota,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria flavescens
+>PQ753923.1 Mammaliicoccus vitulinus strain MG1.7 16S ribosomal RNA gene,0.9573219584811556,Bacteria,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Mammaliicoccus,Mammaliicoccus vitulinus
+>OQ195721.1 Serratia odorifera strain 23-S512 16S ribosomal RNA gene,0.9843286480488064,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia odorifera
+>LC015539.1 Brevundimonas diminuta gene for 16S ribosomal RNA,0.9696576729988777,Bacteria,Pseudomonadota,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,Brevundimonas diminuta
+>PV203620.1 Xanthomonas arboricola strain X.arboricola_pv.juglandis_14nut 16S ribosomal RNA gene,0.8900863388752783,Bacteria,Pseudomonadota,Gammaproteobacteria,Lysobacterales,Lysobacteraceae,Xanthomonas,Xanthomonas arboricola
+>PV278136.1 Pantoea agglomerans strain Mosul1 16S ribosomal RNA gene,0.8580132090147604,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Pantoea,Pantoea agglomerans
+>MT007994.1 Arcanobacterium sp. strain 4a2I-BL23 16S ribosomal RNA gene,0.8451790774343313,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Actinomycetaceae,Arcanobacterium,Arcanobacterium hippocoleae
+>PV382407.1 Bacillus sp. (in: firmicutes) strain G-8 16S ribosomal RNA gene,0.8731594186897663,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. (in: firmicutes)
+>PV202552.1 Proteus vulgaris strain WIPV 16S ribosomal RNA gene,0.9135062739961292,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Morganellaceae,Proteus,Proteus mirabilis
+>JN867239.1 Prevotella bergensis strain SEQ073 16S ribosomal RNA gene,0.9771862807771633,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Hallella,Hallella bergensis
+>PP702894.1 Leifsonia aquatica strain ST172 16S ribosomal RNA gene,0.9334944930495813,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Microbacteriaceae,Leifsonia,Leifsonia aquatica
+>PV329692.1 Acinetobacter schindleri strain AF1 16S ribosomal RNA gene,0.9847897436988416,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter schindleri
+>PP326870.1 Acinetobacter sp. strain WN40 16S ribosomal RNA gene,0.8758674709519154,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter sp.
+>NR_042847.1 Peptostreptococcus anaerobius strain NCTC 11460 16S ribosomal RNA,0.9403330556373805,Bacteria,Bacillota,Clostridia,Peptostreptococcales,Peptostreptococcaceae,Peptostreptococcus,Peptostreptococcus anaerobius
+>MT318575.1 Capnocytophaga ochracea strain KCOM 3139 (=JS246) 16S ribosomal RNA gene,0.8923258163705066,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Capnocytophaga,Capnocytophaga ochracea
+>MT760113.1 Pseudoglutamicibacter albus strain CCM 4905 16S ribosomal RNA gene,0.9250657428104231,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Pseudoglutamicibacter,Pseudoglutamicibacter albus
+>OR945894.1 Parabacteroides distasonis strain V4824 16S ribosomal RNA gene,0.978839229852137,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides distasonis
+>PV342450.1 Pantoea dispersa strain 133CAG 16S ribosomal RNA gene,0.7696474821548734,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Pantoea,Pantoea dispersa
+>PP214424.1 Acidovorax radicis strain MFSHR31 16S ribosomal RNA gene,0.9181394923678323,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Acidovorax,Acidovorax radicis
+>AB849444.1 Prevotella ruminicola gene for 16S ribosomal RNA,0.895940179319195,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Xylanibacter,Xylanibacter ruminicola
+>PQ676110.1 Enterobacter cancerogenus strain LOGO49 16S ribosomal RNA gene,0.9673305196350261,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,Enterobacter hormaechei
+>PQ882182.1 Stutzerimonas stutzeri strain 24N109_021_272_T10 16S ribosomal RNA gene,0.5436572093277785,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Stutzerimonas,Stutzerimonas stutzeri
+>ON209678.1 Acinetobacter schindleri strain KM37 16S ribosomal RNA gene,0.9455227565657268,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter schindleri
+>PQ669457.1 Mammaliicoccus lentus strain BFA38 16S ribosomal RNA gene,0.6728761170619273,Bacteria,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Mammaliicoccus,Mammaliicoccus lentus
+>OM780241.1 Burkholderia pseudomallei strain Ma11 16S ribosomal RNA gene,0.959518256842805,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia pseudomallei
+>PQ757202.1 Corynebacterium ureicelerivorans strain AL74 16S ribosomal RNA gene,0.9746298606071772,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium mucifaciens
+>KT260779.1 Cedecea davisae strain RCB567 16S ribosomal RNA gene,0.8903374471152943,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,Enterobacter hormaechei
+>MW188567.1 Mycolicibacterium neoaurum strain N20SS-44 16S ribosomal RNA gene,0.9218304660740394,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium neoaurum
+>PP832859.1 Listeria monocytogenes strain V25 16S ribosomal RNA gene,0.7172305289137468,Bacteria,Bacillota,Bacilli,Bacillales,Listeriaceae,Listeria,Listeria monocytogenes
+>OQ625896.1 Actinomyces naeslundii strain CW 16S ribosomal RNA gene,0.9418727430671937,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Actinomycetaceae,Actinomyces,Actinomyces oris
+>OQ383311.1 Yersinia enterocolitica strain 1c 16S ribosomal RNA gene,0.7618539432215917,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia enterocolitica
+>PV147241.1 Enterobacter hormaechei strain YSJ-46 16S ribosomal RNA gene,0.867882309287508,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,Enterobacter hormaechei
+>PQ856507.1 Mammaliicoccus sciuri strain SH-COTS 16S ribosomal RNA gene,0.9407119539903918,Bacteria,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Mammaliicoccus,Mammaliicoccus sciuri
+>PP101275.1 Coprococcus eutactus strain BBH 027 16S ribosomal RNA gene,0.9541933427822679,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Coprococcus,Coprococcus eutactus
+>PV345589.1 Enterobacter cloacae strain BSU-AH-01 16S ribosomal RNA gene,0.7629332358874769,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,Enterobacter kobei
+>NZ_LK932354.1 Clostridioides difficile strain 7032994,0.6837296214481761,Bacteria,Bacillota,Clostridia,Peptostreptococcales,Peptostreptococcaceae,Paraclostridium,Paraclostridium bifermentans
+>LM654284.1 Arcobacter cryaerophilus partial 16S rRNA gene,0.9920088928005977,Bacteria,Campylobacterota,Epsilonproteobacteria,Campylobacterales,Arcobacteraceae,Aliarcobacter,Aliarcobacter cryaerophilus
+>PV361865.1 Corynebacterium urealyticum strain VPKS2 16S ribosomal RNA gene,0.858620360897626,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium urealyticum
+>MW463370.1 Neisseria subflava strain SDCM 9802 16S ribosomal RNA gene,0.9488310432810025,Bacteria,Pseudomonadota,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria subflava
+>PQ222882.1 Hoylesella timonensis strain D19-N-20-52 16S ribosomal RNA gene,0.9671009478243403,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Hoylesella,Hoylesella timonensis
+>PV111136.1 Pseudomonas putida strain YT5 16S ribosomal RNA gene,0.8733077543757974,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas fluorescens
+>PP989314.1 Acinetobacter johnsonii strain WS543 16S ribosomal RNA gene,0.5527363338009528,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter johnsonii
+>MH050409.1 Corynebacterium pilbarense strain BMC2N6_2 16S ribosomal RNA (16s ribosomal) gene,0.5539024619742977,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium pilbarense
+>PQ222908.1 Urinicoccus massiliensis strain D22-N-11-69 16S ribosomal RNA gene,0.9763612061597479,Bacteria,Bacillota,Tissierellia,Tissierellales,Peptoniphilaceae,Urinicoccus,Urinicoccus massiliensis
+>MW729400.1 Parvimonas micra strain KCOM 3983 (=ChDC P047-Tf4) 16S ribosomal RNA gene,0.9998859909811535,Bacteria,Bacillota,Tissierellia,Tissierellales,Peptoniphilaceae,Parvimonas,Parvimonas micra
+>EU373383.1 Dermabacter hominis strain TPL11 16S ribosomal RNA gene,0.758038861025244,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Dermabacteraceae,Dermabacter,Dermabacter hominis
+>HM640280.1 Pseudomonas reactans strain YUST-DW1 16S ribosomal RNA gene,0.9469480476710588,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas reactans
+>PQ865222.1 Clostridium butyricum strain CB_4811 16S ribosomal RNA gene,0.7999881945957669,Bacteria,Bacillota,Clostridia,Eubacteriales,Clostridiaceae,Clostridium,Clostridium sp.
+>MT505538.1 Gemella morbillorum strain KCOM 3366 (=ChDC P010-3) 16S ribosomal RNA gene,0.9446385068575589,Bacteria,Bacillota,Bacilli,Bacillales,Gemellaceae,Gemella,Gemella morbillorum
+>NR_044639.1 Porphyromonas circumdentaria strain NCTC 12469 16S ribosomal RNA,0.9247918413057054,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Porphyromonas circumdentaria
+>PP758841.1 Providencia alcalifaciens strain HHR8 16S ribosomal RNA gene,0.9528059750085942,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Morganellaceae,Providencia,Providencia alcalifaciens
+>PQ225891.1 Alistipes finegoldii strain C3-N-0-2-40 16S ribosomal RNA gene,0.9734644924601905,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes finegoldii
+>PV269944.1 Streptococcus equinus strain 26666 16S ribosomal RNA gene,0.9617530571008897,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus agalactiae
+>OR810933.1 Acinetobacter schindleri strain AQUA 4 16S ribosomal RNA gene,0.9713123186567486,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter schindleri
+>OP648234.1 Mixta calida strain WSB113 16S ribosomal RNA gene,0.930823642964179,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Mixta,Mixta calida
+>PV300856.1 Providencia rettgeri strain TS 4 16S ribosomal RNA gene,0.9626305030225508,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Morganellaceae,Providencia,Providencia rettgeri
+>OQ644267.1 Corynebacterium freneyi strain RBS15 16S ribosomal RNA gene,0.9898110542306479,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium amycolatum
+>MW175829.1 Streptococcus acidominimus strain F1_2O2 16S ribosomal RNA gene,0.9872369401189741,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus acidominimus
+>MW730620.1 Streptococcus cristatus strain KCOM 4021 (=ChDC P050-Tf7) 16S ribosomal RNA gene,0.9762896993887972,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus cristatus
+>OQ926084.1 Kluyvera ascorbata strain 63_LSS 16S ribosomal RNA gene,0.863153775168982,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Kluyvera,Kluyvera ascorbata
+>PV088823.1 Lactobacillus delbrueckii strain NWAFU 1709 16S ribosomal RNA gene,0.9815044725514475,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus delbrueckii
+>MK620724.1 Neisseria gonorrhoeae strain SH2017035 16S ribosomal RNA gene,0.9777364209836953,Bacteria,Pseudomonadota,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria gonorrhoeae
+>PQ569097.1 Pasteurella multocida strain Pb.2 16S ribosomal RNA gene,0.9785666401930182,Bacteria,Pseudomonadota,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Pasteurella,Pasteurella multocida
+>PV034359.1 Clostridium butyricum strain Y14 16S ribosomal RNA gene,0.7830803627288182,Bacteria,Bacillota,Clostridia,Eubacteriales,Clostridiaceae,Clostridium,Clostridium sp.
+>JN578456.1 Streptococcus pseudoporcinus strain 834-94 16S ribosomal RNA gene,0.9659248669504512,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pseudoporcinus
+>PP956932.1 Achromobacter denitrificans strain ZRE6 16S ribosomal RNA gene,0.9531767702408054,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Achromobacter,Achromobacter denitrificans
+>PQ812513.1 Providencia stuartii strain EU-PSB-01 16S ribosomal RNA gene,0.9584749080100047,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Morganellaceae,Providencia,Providencia stuartii
+>LC703083.1 Nocardia asteroides MA4-S1 gene for 16S rRNA,0.975737488825129,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Nocardiaceae,Nocardia,Nocardia asteroides
+>PP859177.1 Acinetobacter ursingii strain St13 16S ribosomal RNA gene,0.9806263588025269,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter ursingii
+>MT903175.1 Acidaminococcus fermentans strain 9-D20-63 16S ribosomal RNA gene,0.8546278269507108,Bacteria,Bacillota,Negativicutes,Acidaminococcales,Acidaminococcaceae,Acidaminococcus,Acidaminococcus fermentans
+>MW301928.1 Borreliella afzelii isolate 378 16S ribosomal RNA gene,0.987285053163999,Bacteria,Spirochaetota,Spirochaetia,Spirochaetales,Borreliaceae,Borreliella,Borreliella afzelii
+>KP944181.1 Peptoniphilus asaccharolyticus strain W16018C2 16S ribosomal RNA gene,0.990870415105292,Bacteria,Bacillota,Tissierellia,Tissierellales,Peptoniphilaceae,Peptoniphilus,Peptoniphilus asaccharolyticus
+>PP938234.1 Corynebacterium amycolatum strain KJC480 16S ribosomal RNA gene,0.9302405835005932,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium amycolatum
+>PP737859.1 Acinetobacter radioresistens strain L-13 16S ribosomal RNA gene,0.9836145127867558,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter radioresistens
+>PP465624.1 Bacteroides fragilis isolate 12-26--74 16S ribosomal RNA gene,0.9621466359710874,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis
+>NR_113683.1 Mycoplasmopsis fermentans strain NBRC 14854 16S ribosomal RNA,0.8890753608136898,Bacteria,Mycoplasmatota,undefined,Mycoplasmoidales,Metamycoplasmataceae,Mycoplasmopsis,Mycoplasmopsis fermentans
+>AY643082.1 Alistipes finegoldii strain 4401054 16S ribosomal RNA gene,0.9754929626023944,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes onderdonkii
+>PQ236781.1 Streptococcus parasanguinis strain C5-A-0-64 16S ribosomal RNA gene,0.9540883020337313,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus oralis
+>PV257765.1 Streptococcus thermophilus strain BF-P-326 16S ribosomal RNA gene,0.9596877116848804,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus salivarius
+>PP938413.1 Brevibacillus brevis strain KJC559 16S ribosomal RNA gene,0.9531953458249569,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,Brevibacillus brevis
+>DQ412573.1 Helicobacter canis strain Lausanne 16S ribosomal RNA gene,0.9499565614660835,Bacteria,Campylobacterota,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter canis
+>OP136113.1 Cupriavidus pauculus strain DBB9 16S ribosomal RNA gene,0.8950862209786794,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Cupriavidus,Cupriavidus sp.
+>PQ877275.1 Cupriavidus sp. strain 291-E7 16S ribosomal RNA gene,0.9131568269988333,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Cupriavidus,Cupriavidus sp.
+>KR995255.1 Mycobacterium intracellulare strain WH976 16S ribosomal RNA gene,0.9625601218048975,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium avium
+>M75038.1 Aggregatibacter actinomycetemcomitans strain ATCC 29523 16S ribosomal RNA gene,0.9176621872603044,Bacteria,Pseudomonadota,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Aggregatibacter,Aggregatibacter actinomycetemcomitans
+>OX241417.1 Staphylococcus hyicus partial 16S rRNA gene,0.961791368620032,Bacteria,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus hyicus
+>PP938066.1 Aquipseudomonas alcaligenes strain KJC441 16S ribosomal RNA gene,0.8744214557328709,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Aquipseudomonas,Aquipseudomonas alcaligenes
+>EU434595.1 Corynebacterium coyleae strain e40 16S ribosomal RNA gene,0.9483229291259311,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium pilbarense
+>NR_115509.1 Peptoniphilus indolicus strain GIFU 7848 16S ribosomal RNA,0.8939271144219454,Bacteria,Bacillota,Tissierellia,Tissierellales,Peptoniphilaceae,Peptoniphilus,Peptoniphilus asaccharolyticus
+>NR_042167.1 Actinomyces graevenitzii strain CCUG 27294 16S ribosomal RNA,0.7066690224109853,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Actinomycetaceae,Actinomyces,Actinomyces graevenitzii
+>PP086566.1 Achromobacter denitrificans strain COLMIS 95 16S ribosomal RNA gene,0.994956183316888,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Achromobacter,Achromobacter denitrificans
+>OR600366.1 Actinomyces sp. strain SKVG-SVH-4(1) 16S ribosomal RNA gene,0.9228430626900826,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Actinomycetaceae,Actinomyces,Actinomyces viscosus
+>PQ479182.1 Myroides odoratimimus strain YDGB1 16S ribosomal RNA gene,0.9281402402014459,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Myroides,Myroides odoratimimus
+>KP986582.1 Bacterium E1148 16S ribosomal RNA gene,0.9663252862258979,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Thiopseudomonas,Thiopseudomonas alkaliphila
+>MW049073.1 Cupriavidus pauculus strain RSCup08 16S ribosomal RNA gene,0.8691975153908701,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Cupriavidus,Cupriavidus sp.
+>LN881581.1 Clostridium putrefaciens partial 16S rRNA gene,0.6327430889057079,Bacteria,Bacillota,Clostridia,Eubacteriales,Clostridiaceae,Clostridium,Clostridium sp.
+>ON921019.1 Campylobacter coli strain G-72-05-2 16S ribosomal RNA gene,0.9180833180513773,Bacteria,Campylobacterota,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Campylobacter coli
+>PV088775.1 Enterococcus gallinarum strain NWAFU 6015 16S ribosomal RNA gene,0.9685128798071462,Bacteria,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus gallinarum
+>PQ312866.1 Heyndrickxia oleronia strain HBUAS77159 16S ribosomal RNA gene,0.7086969702885976,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus subtilis
+>ON921021.1 Campylobacter coli strain G-137-02-1 16S ribosomal RNA gene,0.9959820852187887,Bacteria,Campylobacterota,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Campylobacter coli
+>MW527158.1 Lactobacillus jensenii strain 17051 16S ribosomal RNA gene,0.9810572057669965,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus jensenii
+>PV017740.1 Bacillus subtilis strain MTD1 16S ribosomal RNA gene,0.901246701186137,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus subtilis
+>NR_119119.1 Corynebacterium pseudodiphtheriticum strain CIP 103420 16S ribosomal RNA,0.9497600239447164,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium pseudodiphtheriticum
+>OQ780969.1 Empedobacter falsenii strain BASG148 16S ribosomal RNA gene,0.9910596443269115,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Empedobacter,Empedobacter falsenii
+>KC951923.1 Cedecea davisae strain LHC85 16S ribosomal RNA gene,0.844018353338056,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,Enterobacter kobei
+>OP012825.1 Acidovorax delafieldii strain MAA8 16S ribosomal RNA gene,0.955739498150206,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Acidovorax,Acidovorax delafieldii
+>PV354876.1 Morganella morganii strain HRKURD38 16S ribosomal RNA gene,0.8438221676915176,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Morganellaceae,Morganella,Morganella morganii
+>OR921275.1 Staphylococcus lugdunensis strain KJC191 16S ribosomal RNA gene,0.9039369924869454,Bacteria,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus lugdunensis
+>PP724625.1 Pseudescherichia vulneris strain MRC58550 16S ribosomal RNA gene,0.8863826829713762,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Atlantibacter,Atlantibacter hermannii
+>KY014980.1 Mycolicibacterium flavescens strain PDBKLRG1 16S ribosomal RNA gene,0.9795246881746094,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium flavescens
+>PV197615.1 Aquipseudomonas alcaligenes strain AZMABM_SG03 16S ribosomal RNA gene,0.9734969931275677,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Aquipseudomonas,Aquipseudomonas alcaligenes
+>OR826335.1 Anaerococcus prevotii strain RSAA90 16S ribosomal RNA gene,0.9851017133841222,Bacteria,Bacillota,Tissierellia,Tissierellales,Peptoniphilaceae,Anaerococcus,Anaerococcus prevotii
+>OQ926081.1 Kluyvera ascorbata strain 166_LSS 16S ribosomal RNA gene,0.7914464446407286,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Kluyvera,Kluyvera ascorbata
+>NR_026434.1 Corynebacterium riegelii strain DMMZ 2415 16S ribosomal RNA,0.6575430878330453,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium sp.
+>PP806178.1 Helicobacter pylori strain ID_EMB 16S ribosomal RNA gene,0.9694654078525918,Bacteria,Campylobacterota,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori
+>OR501905.1 Eikenella corrodens strain ZB1984 16S ribosomal RNA gene,0.9738305466087077,Bacteria,Pseudomonadota,Betaproteobacteria,Neisseriales,Neisseriaceae,Eikenella,Eikenella corrodens
+>PP416278.1 Staphylococcus cohnii strain MTS4B 16S ribosomal RNA gene,0.9354037980213068,Bacteria,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus cohnii
+>MW555338.1 Dialister pneumosintes strain KCOM 3634 (=ChDC P025-Pg1) 16S ribosomal RNA gene,0.9727244003731182,Bacteria,Bacillota,Negativicutes,Veillonellales,Veillonellaceae,Dialister,Dialister pneumosintes
+>LC762664.1 Pasteurella multocida NA2 gene for 16S ribosomal RNA,0.9504237381967813,Bacteria,Pseudomonadota,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Pasteurella,Pasteurella multocida
+>PQ223225.1 Bifidobacterium dentium strain D9-N-30-72 16S ribosomal RNA gene,0.9633585488286716,Bacteria,Actinomycetota,Actinomycetes,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium dentium
+>PQ345526.1 Myroides odoratimimus strain 44RR 16S ribosomal RNA gene,0.8891056925306591,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Myroides,Myroides odoratimimus
+>PV256631.1 Staphylococcus aureus strain Q14098 16S ribosomal RNA gene,0.9509099478421771,Bacteria,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus
+>PQ100888.1 Acinetobacter johnsonii strain NTGL11 16S ribosomal RNA gene,0.6143386678193793,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter haemolyticus
+>PQ223211.1 Blautia hansenii strain D9-N-0-13 16S ribosomal RNA gene,0.915140898998621,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Blautia,Blautia hansenii
+>ON726251.1 Macellibacteroides fermentans strain J1 16S ribosomal RNA gene,0.9722113275352141,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Porphyromonadaceae,Macellibacteroides,Macellibacteroides fermentans
+>OR192944.1 Staphylococcus lugdunensis strain MCAR/VM/ZOO/ATA/2023 16S ribosomal RNA gene,0.962431982541038,Bacteria,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus lugdunensis
+>MW730612.1 Granulicatella adiacens strain KCOM 4019 (=ChDC P050-Tf5) 16S ribosomal RNA gene,0.8913180316712194,Bacteria,Bacillota,Bacilli,Lactobacillales,Carnobacteriaceae,Granulicatella,Granulicatella adiacens
+>MT757906.1 Slackia exigua strain KCOM 3453 (=JS421) 16S ribosomal RNA gene,0.9860765470859992,Bacteria,Actinomycetota,Coriobacteriia,Eggerthellales,Eggerthellaceae,Slackia,Slackia exigua
+>PQ461950.1 Staphylococcus pasteuri strain SFO112 16S ribosomal RNA gene,0.628855749492771,Bacteria,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus pasteuri
+>OM758218.1 Staphylococcus simulans strain HZ02 16S ribosomal RNA gene,0.9161808663532454,Bacteria,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus simulans
+>MW600379.1 Haemophilus parainfluenzae strain KCOM 3828 (=ChDC P033-SAa) 16S ribosomal RNA gene,0.9341329690047402,Bacteria,Pseudomonadota,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,Haemophilus parainfluenzae
+>NR_119073.1 Dermabacter hominis strain NCFB 2769 16S ribosomal RNA,0.9370634324418319,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Dermabacteraceae,Dermabacter,Dermabacter hominis
+>PV351743.1 Leuconostoc mesenteroides strain DD_NB_B8 16S ribosomal RNA gene,0.7205253919616267,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Leuconostoc,Leuconostoc mesenteroides
+>PP657562.1 Ectopseudomonas mendocina strain S1 16S ribosomal RNA gene,0.9302637053232203,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Ectopseudomonas,Ectopseudomonas mendocina
+>PQ326794.1 Enterobacter cancerogenus strain HBUAS74345 16S ribosomal RNA gene,0.9483488502343275,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,Enterobacter hormaechei
+>AJ239298.1 Neisseria polysaccharea 16S rRNA gene (partial),0.9401594803549432,Bacteria,Pseudomonadota,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria polysaccharea
+>PQ764153.1 Fusobacterium nucleatum strain ChDC F311 16S ribosomal RNA gene,0.9396109085527634,Bacteria,Fusobacteriota,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium nucleatum
+>MW175833.1 Streptococcus acidominimus strain HT4 16S ribosomal RNA gene,0.9712179437264467,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus acidominimus
+>NR_037124.1 Corynebacterium minutissimum strain NCTC 10288 16S ribosomal RNA,0.9867901090773166,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium singulare
+>PQ845019.1 Acinetobacter haemolyticus strain AGR03 16S ribosomal RNA gene,0.9569319795854397,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,Acinetobacter haemolyticus
+>PV362409.1 Clostridium perfringens strain HC05 16S ribosomal RNA gene,0.7457974350600688,Bacteria,Bacillota,Clostridia,Eubacteriales,Clostridiaceae,Clostridium,Clostridium perfringens
+>PQ461892.1 Ectopseudomonas mendocina strain B-14398 16S ribosomal RNA gene,0.8887400387760442,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas reactans
+>OR584237.1 Staphylococcus nepalensis strain SSL5 16S ribosomal RNA gene,0.9746599416740841,Bacteria,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus cohnii
+>NR_113091.1 Porphyromonas uenonis strain JCM 13868 16S ribosomal RNA,0.9716597437116151,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Porphyromonas uenonis
+>PV370680.1 Serratia fonticola strain 119030ZA 16S ribosomal RNA gene,0.9405967706119087,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia fonticola
+>ON840013.1 Aeromonas enteropelogenes strain SRAE12 16S ribosomal RNA gene,0.9288049208028683,Bacteria,Pseudomonadota,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas enteropelogenes
+>OR976225.1 Streptococcus mutans strain YT10 16S ribosomal RNA gene,0.3922544953582974,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus mutans
+>NR_115513.1 Anaerococcus lactolyticus strain GIFU 8586 16S ribosomal RNA,0.9553137458234576,Bacteria,Bacillota,Tissierellia,Tissierellales,Peptoniphilaceae,Anaerococcus,Anaerococcus lactolyticus
+>PV329710.1 Enterobacter kobei strain AF8 16S ribosomal RNA gene,0.8872919723305801,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Lelliottia,Lelliottia amnigena
+>PQ037631.1 Nocardia otitidiscaviarum strain AS-15 16S ribosomal RNA gene,0.9484437831021301,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Nocardiaceae,Nocardia,Nocardia otitidiscaviarum
+>D14138.1 Anaerococcus prevotii gene for 16S ribosomal RNA,0.7425174952178706,Bacteria,Bacillota,Tissierellia,Tissierellales,Peptoniphilaceae,Peptoniphilus,Peptoniphilus asaccharolyticus
+>NR_026080.1 Mycobacterium szulgai strain ATCC 35799 16S ribosomal RNA,0.965665859711981,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium malmoense
+>AF005180.1 Moraxella nonliquefaciens 16S ribosomal RNA gene,0.9658781404571655,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Moraxella,Moraxella nonliquefaciens
+>PQ757201.1 Corynebacterium urealyticum strain AL73 16S ribosomal RNA gene,0.9133872141341478,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium urealyticum
+>PQ790017.1 Chlamydia pneumoniae strain TW-183 16S ribosomal RNA gene,0.9806187603796385,Bacteria,Chlamydiota,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia pneumoniae
+>MK279512.1 Helicobacter canis strain CAC 1.2 16S ribosomal RNA gene,0.851906113576773,Bacteria,Campylobacterota,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter canis
+>PP086801.1 Pantoea agglomerans strain SWUPB20 16S ribosomal RNA gene,0.8694401925657709,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Pantoea,Pantoea agglomerans
+>PQ222564.1 Casaltella massiliensis strain D14-N-11-38 16S ribosomal RNA gene,0.2536753466510828,Bacteria,Bacillota,Clostridia,Peptostreptococcales,Peptostreptococcaceae,Peptostreptococcus,Peptostreptococcus anaerobius
+>PP542520.1 Citrobacter koseri strain CDBH3B4 16S ribosomal RNA gene,0.8272980468823701,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Citrobacter,Citrobacter koseri
+>PP263608.1 Helicobacter pylori strain H_pylori_strain_HGDL-MR01_16s 16S ribosomal RNA gene,0.9685396968874487,Bacteria,Campylobacterota,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori
+>NR_025860.1 Orientia tsutsugamushi strain Karp 16S ribosomal RNA,0.9777225968500656,Bacteria,Pseudomonadota,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Orientia,Orientia tsutsugamushi
+>NR_133037.1 Casaltella massiliensis strain 9400853 16S ribosomal RNA,0.24849307731510806,Bacteria,Bacillota,Clostridia,Peptostreptococcales,Peptostreptococcaceae,Peptostreptococcus,Peptostreptococcus anaerobius
+>PQ222521.1 Anaerococcus vaginalis strain D7-N-30-74 16S ribosomal RNA gene,0.9016148683772682,Bacteria,Bacillota,Tissierellia,Tissierellales,Peptoniphilaceae,Anaerococcus,Anaerococcus senegalensis
+>NR_025852.1 Acidocella facilis strain PW2 16S ribosomal RNA,0.9657531520328695,Bacteria,Pseudomonadota,Alphaproteobacteria,Acetobacterales,Acidocellaceae,Acidocella,Acidocella facilis
+>OK325802.1 Alistipes sp. strain B2-R-128 16S ribosomal RNA gene,0.7130867282639496,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes sp.
+>JN867252.1 Prevotella corporis strain SEQ176 16S ribosomal RNA gene,0.9622023625943903,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella corporis
+>PV224682.1 Raoultella terrigena strain T31-72 16S ribosomal RNA gene,0.9224305533549186,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Raoultella,Raoultella terrigena
+>PQ788137.1 Anaerococcus tetradius strain CCUG 46590 1 16S ribosomal RNA gene,0.9804250837838303,Bacteria,Bacillota,Tissierellia,Tissierellales,Peptoniphilaceae,Anaerococcus,Anaerococcus prevotii
+>PQ691613.1 Citrobacter sp. strain BSDF21-12 16S ribosomal RNA gene,0.9348513695693135,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Citrobacter,Citrobacter braakii
+>PQ844557.1 Elizabethkingia miricola strain HZEA 17093 16S ribosomal RNA gene,0.9911507716970378,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Elizabethkingia,Elizabethkingia miricola
+>OR398735.1 Bacteroides sp. strain F62 16S ribosomal RNA gene,0.9701564422185216,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis
+>OM074025.1 Glutamicibacter creatinolyticus strain JCM 19049 16S ribosomal RNA gene,0.9047715215798998,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Glutamicibacter,Glutamicibacter creatinolyticus
+>MZ146349.1 Borreliella afzelii isolate TC-T-77 16S ribosomal RNA gene,0.9759277314315736,Bacteria,Spirochaetota,Spirochaetia,Spirochaetales,Borreliaceae,Borreliella,Borreliella afzelii
+>PQ517228.1 Microbacterium oxydans strain SX008 16S ribosomal RNA gene,0.9756252502339476,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Microbacteriaceae,Microbacterium,Microbacterium oxydans
+>OR272335.1 Bacteroides sp. strain CG01 16S ribosomal RNA gene,0.7608977537049924,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis
+>LC810200.1 Actinomyces naeslundii D3vishwas gene for 16S rRNA,0.9801677706021994,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Actinomycetaceae,Actinomyces,Actinomyces naeslundii
+>OQ975752.1 Providencia alcalifaciens strain CIFRI.C2 16S ribosomal RNA gene,0.9107943626412798,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Morganellaceae,Providencia,Providencia alcalifaciens
+>MZ310645.1 Enterococcus raffinosus strain N17 16S ribosomal RNA gene,0.9936091320903726,Bacteria,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus gilvus
+>JQ694486.1 Salmonella enterica subsp. enterica serovar Newport strain 362 16S ribosomal RNA gene,0.9398905538487959,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica
+>U17258.1 Rickettsia tsutsugamushi Kato 16S ribosomal RNA gene,0.9281678371357716,Bacteria,Pseudomonadota,Alphaproteobacteria,Rickettsiales,Rickettsiaceae,Orientia,Orientia tsutsugamushi
+>ON159568.1 Pseudomonas trivialis strain EU-CEN-2 16S ribosomal RNA gene,0.8473130629899044,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas poae
+>OP824855.1 Mycobacterium gordonae strain 2MY 16S ribosomal RNA gene,0.9223625785007188,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycobacterium,Mycobacterium avium
+>PV256147.1 Serratia odorifera strain GN-I-2 16S ribosomal RNA gene,0.9447752731473801,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia odorifera
+>PV164032.1 Citrobacter koseri strain ABC 16S ribosomal RNA gene,0.9387965918490445,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Citrobacter,Citrobacter koseri
+>KU922264.1 Corynebacterium mucifaciens strain L69 16S ribosomal RNA gene,0.9393987756436228,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium mucifaciens
+>NR_113103.1 Prevotella disiens strain JCM 6334 16S ribosomal RNA,0.9754915639667303,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella disiens
+>PV248667.1 Aeromonas hydrophila strain ZOOGU-NT-02 16S ribosomal RNA gene,0.9426300119654492,Bacteria,Pseudomonadota,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas hydrophila
+>OR762506.1 Psychrobacter phenylpyruvicus strain Marseille-IHU_AA00124 16S ribosomal RNA gene,0.9519038396617362,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Psychrobacter,Psychrobacter phenylpyruvicus
+>OK626609.1 Turicibacter sanguinis strain MOL320 16S ribosomal RNA gene,0.7053488463268581,Bacteria,Bacillota,Erysipelotrichia,Erysipelotrichales,Turicibacteraceae,Turicibacter,Turicibacter sanguinis
+>OR142967.1 Streptococcus dysgalactiae strain VMTRC 200 16S ribosomal RNA gene,0.7909453908845684,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes
+>OL636243.1 Neisseria subflava strain S_WE.A9.047 16S ribosomal RNA gene,0.9597227007574921,Bacteria,Pseudomonadota,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria subflava
+>PQ782430.1 Achromobacter insolitus strain FT627 16S ribosomal RNA gene,0.974718046137941,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Achromobacter,Achromobacter insolitus
+>PQ845691.1 Acinetobacter radioresistens isolate 109060 16S ribosomal RNA gene,0.9933301748556161,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Delftia,Delftia sp.
+>PP237230.1 Pseudomonas trivialis strain EGI_MS-09 16S ribosomal RNA gene,0.9644516667291291,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas poae
+>NR_026214.1 Corynebacterium afermentans strain CIP 103499 16S ribosomal RNA,0.9475191789071158,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium sp.
+>NR_113095.1 Hallella bergensis strain JCM 13869 16S ribosomal RNA,0.9625120958949538,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Hallella,Hallella bergensis
+>OR294506.1 Veillonella parvula strain OMI1290-P9 16S ribosomal RNA gene,0.9692492680095557,Bacteria,Bacillota,Negativicutes,Veillonellales,Veillonellaceae,Veillonella,Veillonella parvula
+>LC830725.1 Alistipes finegoldii KML 24003 gene for 16S rRNA,0.9471736995900258,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes finegoldii
+>PQ892003.1 Yersinia intermedia strain P14b 16S ribosomal RNA gene,0.9464527879843677,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia enterocolitica
+>PP425857.1 Vibrio vulnificus strain FBC23-276 16S ribosomal RNA gene,0.798742739789198,Bacteria,Pseudomonadota,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio vulnificus
+>KF914917.1 Helicobacter cinaedi strain 609515/2013 16S ribosomal RNA gene,0.9831186491601144,Bacteria,Campylobacterota,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter cinaedi
+>OR294508.1 Veillonella parvula strain OMI1206-P7 16S ribosomal RNA gene,0.9832794223170774,Bacteria,Bacillota,Negativicutes,Veillonellales,Veillonellaceae,Veillonella,Veillonella parvula
+>OM758217.1 Staphylococcus simulans strain HZ03 16S ribosomal RNA gene,0.8890890138997377,Bacteria,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus simulans
+>KJ585681.1 Neisseria cinerea strain VTM4R56 16S ribosomal RNA gene,0.759193281342098,Bacteria,Pseudomonadota,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria gonorrhoeae
+>NR_026011.1 Mycolicibacterium hassiacum strain 3849 16S ribosomal RNA,0.6425616771974886,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium flavescens
+>PQ416995.1 Brevibacillus agri strain SQ1 16S ribosomal RNA gene,0.9748910460155842,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,Brevibacillus agri
+>ON798423.1 Anaerococcus sp. strain 200574_16S 16S ribosomal RNA gene,0.9122362731643138,Bacteria,Bacillota,Tissierellia,Tissierellales,Peptoniphilaceae,Anaerococcus,Anaerococcus murdochii
+>MH645801.1 Actinobaculum massiliense strain FC3 16S ribosomal RNA gene,0.9998868938506718,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Actinomycetaceae,Actinobaculum,Actinobaculum massiliense
+>PQ766543.1 Brevibacillus borstelensis strain KJC577 16S ribosomal RNA gene,0.9383471420493914,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,Brevibacillus borstelensis
+>OQ926025.1 Chryseobacterium indologenes strain 106_LSS 16S ribosomal RNA gene,0.9245274130142465,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Weeksellaceae,Chryseobacterium,Chryseobacterium gleum
+>GQ421318.1 Actinomyces oris strain P6N 16S ribosomal RNA gene,0.9653326694817073,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Actinomycetaceae,Actinomyces,Actinomyces oris
+>NR_113563.1 Capnocytophaga ochracea strain JCM 12966 16S ribosomal RNA,0.9328009266542272,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Capnocytophaga,Capnocytophaga ochracea
+>MK248085.1 Enhydrobacter aerosaccus strain TGC-1 16S ribosomal RNA gene,0.9674087250601625,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,undefined,Enhydrobacter,Enhydrobacter aerosaccus
+>OR610182.1 Blautia sp. strain HTF-360 16S ribosomal RNA gene,0.9904555327795701,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Blautia,Blautia obeum
+>PQ865673.1 Staphylococcus saprophyticus strain 126 16S ribosomal RNA gene,0.9074345155353827,Bacteria,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus saprophyticus
+>NR_025396.1 Aerococcus sanguinicola strain CCUG 43001 16S ribosomal RNA,0.9744379636370442,Bacteria,Bacillota,Bacilli,Lactobacillales,Aerococcaceae,Aerococcus,Aerococcus sanguinicola
+>AF480578.1 Mycobacterium flavescens strain ATCC 23008 16S ribosomal RNA gene,0.802371048261591,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium flavescens
+>OP363649.1 Acidovorax delafieldii strain 3A-6 16S ribosomal RNA gene,0.9765410353531652,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Acidovorax,Acidovorax delafieldii
+>OR976224.1 Streptococcus mutans strain YT9 16S ribosomal RNA gene,0.523664948240958,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus mutans
+>PP702174.1 Enterococcus casseliflavus strain MAS6 16S ribosomal RNA gene,0.9474439159987875,Bacteria,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus casseliflavus
+>MK611773.1 Arcanobacterium haemolyticum strain FC3480 16S ribosomal RNA gene,0.9468121259894149,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Actinomycetaceae,Arcanobacterium,Arcanobacterium haemolyticum
+>PQ225825.1 Blautia obeum strain C2-N-0-4-25 16S ribosomal RNA gene,0.9546851433443497,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Blautia,Blautia obeum

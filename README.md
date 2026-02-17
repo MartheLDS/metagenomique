@@ -10,7 +10,7 @@
     - récupération de séquences représentatives pour chaque txid
     - variation du nombre minimum et maximum de représntants pour chaque espèce pour réduire le déséquilibre des classes
 
-## constitution d'un jeu de test:
+## constitution d'un jeu de test
 - extraction d'une partie d'un jeu d'entrainement
 - suppression des séquences du jeu de test des jeux d'entraînements
 
